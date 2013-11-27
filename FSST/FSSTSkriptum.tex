@@ -1,0 +1,92 @@
+\documentclass[a4paper,final]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[german]{babel}
+
+\title{Informatik Skriptum}
+\author{Alin Porcic}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\chapter{OS - Operating System}
+
+\section{Was ist ein Betriebssystem?}
+
+Ein Betriebssystem (=OS, Operating System) ist eine Software, die als Schnittstelle zwischen Anwender bzw. Anwendungen und Hardware verstanden wird.
+Betriebssysteme gibt es in allen Farben und Formen und können für spezialiesierte Hardware vorgesehen sein. Es gibt auch ein sogennantes "Real Time
+Operation System". Dieses Systeme werden meist für wichtige Aufgaben verwenden z.B. Bordcomputer eines Flugzeuges. Dieses Systeme müssen auf bestimmte
+Ereignisse in sehr kurzer Zeit reagieren.
+
+
+\section{Aufgaben des Betriebssytem}
+
+Die Aufgaben eines Betriebssystems sind Speichermanagment, Prozessorzeit für jeweilige Programme bereitstellen, Managment der jeweiligen Komponenten des 
+Computers und auch das Managment der Treiber. 
+
+\section{Hardware}
+
+Ein Computer besteht aus verschiedensten Hardwarekomponeneten. Die Hauptkomponenten eines Computers sind: Mainboard, Chipset, Prozessor (CPU), Northbridge und Southbridge, Grafikcontroller (Inboard oder Outboard oder beides), Festplatten usw.
+
+Es gibt bei dem Hardwareaufbau zwei verschiedene Architekturen:
+
+	\begin{itemize}
+	\item Von-Neumann Architektur: Programmspeicher und Datenspeicher teilen sich den gleichen Speicher
+	\item Harward Archikektur: Programmspeicher und Datenspeicher haben jeweils einen eigenemn Speicher (z.B. Microcontroller)
+	\end{itemize}
+
+\section{Einschaltvorgang eines Computers}
+
+	\begin{enumerate}
+	\item Bootvorgang wird begonnen. Die CPU beginnt mit der Abarbeitung eines an einer festgelegten Speicheradresse im ROM abgelegten Programmes (POST,
+	= Power-on self-test).
+	\item Dieses überprüft die angschlossenen Geräte und untersucht die Speichergeräte auf gültige
+	Bootsektoren (ein Bootsektor wird als Master Boot Record (MBR) bezeichnet). Die Reihenfolge dieser Untersuchng kann im BIOS individuell angepasst 			werden z.B. für das Booten eines OS von einem USB-Stick.
+	\item nun beginnt die CPU die ersten Befehle aus diesem Bootsektor abzuarbeiten. Dieses Programm wird vom jeweiligen Betriebssystem während der
+	Installation installiert (es können auch Bootmanager in den Bootsektor installiert werden z.B. Grub, um mehrere verschiedene Betriebssysteme auf
+	einem Rechner zu haben).
+	\item Der Bootmanager bzw. das Programm laden von der jeweiligen Partition, in der das Betriebssystem liegt die benötigten Programme und führt
+	diese aus. 
+	\item Betriebssystem wird gestartet.
+	\end{enumerate}
+
+\section{Arten von Betriebssystemen}
+
+Echtzeitbetriebssystem müssen Befehle in einer vordefinierten Zeit erledigt haben. Wird bei Steuerung verwendet z.B. Onboardcomputer von Flugzeugen, Scheidemaschinen.
+
+\chapter{Server}
+
+\section{Was ist ein Server?}
+
+Ein Server kann eine Hardware, ein Program oder ein Dienst sein.
+Ein Server stellt anderen Clients bestimmte Informationen zur Verfügung.
+
+\chapter{Prozess}
+
+Ein Prozess ist ein Programm in Ausführung (laufendes Programm bildet ein Prozess). Der Prozess muss auf bestimmten Hardwareresourcen (RAM, ...) zugreifen können. Prozess ist stark gekapselt, ist in seiner eigenen Welt. Das Betriebssystem muss diese Prozesse verwalten (Prozesstabelle).
+
+Prozess muss erzeugt werden. Resourcen bereitgestellt werden (Virtueller Speicher, ...). Dieses Programm wird nicht ununterbrochen laufen. Der Sceduel sorgt dafür das das Programm unterbrochen wird damit andere PRogramme gleichtzig laufen können (Zeitmultiplexen).
+
+Task (=Aufgabe) heißt er kann mehrer Prozesse gleichzeitig erledigen (parallel). Mit einem Prozessorkern können nicht Programme gleichzeitig laufen.
+
+
+\chapter{RAM - Arbeitspeicher}
+
+Jedes Programm bekommt einen virtuellen Speicher. Zwei wichtige Speicher:
+
+\begin{itemize}
+\item Stack: Bei einem Interupt (Unterprogrammabruf) wird ein Abbild aller Register des Prozessors gemacht und auf dem Stack gelegt. Nachdem das Unterprogramm fertig ist, wird das Abbild wieder geladen. Ein bekannter Fehler ist der ''Stack Overflow''. Hier wird der Stack voll und überschreibt einen anderen Speicherbereich. PCP (Prozess Control Prozess).
+\item Hib: Dynamische Variablen (werden während der Laufzeit generiert. Selbe Problematik wie bei dem Stack. Der Hib wächst dem Stack entgegen.
+\end{itemize}
+
+\chapter{Thread}
+
+Threads sind Unterprogramme, die parallel zum Hauptthread läuft. IPC (Inter Process Communication) kann mit anderen Prozessen kommunizieren.
+Der gemeinsame Speicher muss coordiniert werden (Pipes). Pipes sind sequenziell nach dem Vif-Prinzip. Verwendet man gerne für Ein- und Ausgabe. Locks sind dazu da Interupts zu verhindern. Semaphore eine Datenstruktur, die sagt ob eine Resource noch frei ist oder nicht (Zähler der Zählt ob und wieviel noch frei ist). Mutex (Multiple Executer). Multi-Tasking wird durch den Sceudel möglch gemacht (bei Prozessoren mit einem Kern werden die PRogramme, die gleichzeitig auszuführen sind, zeitverschoben ausgeführt. 
+
+
+
+\end{document}
+
+
