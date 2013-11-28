@@ -1,8 +1,0 @@
-\select@language {german}
-\contentsline {chapter}{\numberline {1}Literarische Gattungen}{2}
-\contentsline {subsection}{\numberline {1.0.1}Lyrik}{2}
-\contentsline {subsection}{\numberline {1.0.2}Dramatik}{2}
-\contentsline {subsection}{\numberline {1.0.3}Epik}{3}
-\contentsline {section}{\numberline {1.1}Biedermeier 1915 bis 1948 (=Vorm\IeC {\"a}rz)}{5}
-\contentsline {chapter}{\numberline {2}Deutschland}{6}
-\contentsline {chapter}{\numberline {3}M\IeC {\"a}rzrevolution}{7}
