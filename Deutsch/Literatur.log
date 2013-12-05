@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  2 DEC 2013 16:41
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  5 DEC 2013 23:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -294,7 +294,12 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--29
+Underfull \hbox (badness 10000) in paragraph at lines 27--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--31
 
  []
 
@@ -310,7 +315,7 @@ Overfull \hbox (5.6362pt too wide) in paragraph at lines 110--113
  hei^^Yt []ubersetzt
  []
 
-[6] [7]
+[6] [7] [8]
 Overfull \hbox (26.52113pt too wide) in paragraph at lines 186--186
 []\OT1/cmr/bx/n/14.4 Laut- und Be-deu-tungs-wand-ler vom Mit-tel-hoch-deutsch
  []
@@ -327,7 +332,7 @@ Overfull \hbox (1.12375pt too wide) in paragraph at lines 200--201
 . Fibel-Bibel,
  []
 
-[8] [9] [10] [11]
+[9] [10] [11] [12]
 Overfull \hbox (27.53873pt too wide) in paragraph at lines 281--282
 \OT1/cmr/m/n/12 Die Auf-kl[]arung (1700 bis 1770) war ei-ne geist-li-che Str[]o
 mung, die sich haupts[]achlich
@@ -338,18 +343,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 281--282
 
  []
 
-[12]
+[13]
 Overfull \hbox (0.31404pt too wide) in paragraph at lines 324--325
 \OT1/cmr/m/n/12 Das Dra-ma ''Die R[]auber'',geschrieben von Schil-ler, han-delt
  von zwei Br[]udern,
  []
 
-[13]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 330--332
 
  []
 
-[14] [15]
+[15] [16]
 Underfull \hbox (badness 10000) in paragraph at lines 421--422
 
  []
@@ -360,65 +365,68 @@ Overfull \hbox (17.6319pt too wide) in paragraph at lines 445--446
 und wird haupts[]achlich
  []
 
-[16] [17] [18] [19]
-Overfull \hbox (29.6938pt too wide) in paragraph at lines 517--517
+[17] [18] [19]
+Underfull \hbox (badness 10000) in paragraph at lines 477--487
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--487
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--487
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 493--496
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--496
+
+ []
+
+[21]
+Overfull \hbox (29.6938pt too wide) in paragraph at lines 506--506
 []\OT1/cmr/bx/n/17.28 B[]urgerlicher oder Poe-ti-scher Rea-lis-mus (1848
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 519--523
+Underfull \hbox (badness 10000) in paragraph at lines 509--525
 
  []
 
 
-Overfull \hbox (21.49435pt too wide) in paragraph at lines 519--523
-[]\OT1/cmr/m/n/12 Osterreich-Preu^^Yischer Krieg - []Osterreich hat den Krieg v
-er-lo-ren. Die []Osterreicher
- []
-
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 524--533
-
- []
-
-
-Overfull \hbox (2.3765pt too wide) in paragraph at lines 524--533
+Overfull \hbox (2.3765pt too wide) in paragraph at lines 509--525
 \OT1/cmr/m/n/12 Realismus besch[]aftigt sich nicht mit der Po-li-tik son-dern u
 m all-ge-mein mensch-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 524--533
+Underfull \hbox (badness 10000) in paragraph at lines 509--525
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 540--544
+Underfull \hbox (badness 10000) in paragraph at lines 509--525
 
  []
 
 
-Overfull \hbox (12.64722pt too wide) in paragraph at lines 546--547
-[]\OT1/cmr/m/n/12 Arthur Scho-gen-hau-er - Zi-tat: ''Die Welt ist []Au^^Yerung 
-ei-ner un-vern[]unftigen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 549--559
+Underfull \hbox (badness 10000) in paragraph at lines 509--525
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--559
+Underfull \hbox (badness 10000) in paragraph at lines 509--525
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 549--559
-
- []
-
-[21] [22] (./Literatur.aux) ) 
+[22] [23] (./Literatur.aux) ) 
 Here is how much of TeX's memory you used:
  914 strings out of 493311
  10255 string characters out of 6143650
@@ -426,15 +434,15 @@ Here is how much of TeX's memory you used:
  4410 multiletter control sequences out of 15000+600000
  8808 words of font info for 31 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 23i,6n,23p,533b,307s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,6n,23p,538b,307s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Literatur.pdf (22 pages, 85039 bytes).
+Output written on Literatur.pdf (23 pages, 86016 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
+ 94 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

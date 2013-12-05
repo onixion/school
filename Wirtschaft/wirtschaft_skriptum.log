@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  4 DEC 2013 08:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  5 DEC 2013 23:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**GeschichteSkriptum.tex
-(./GeschichteSkriptum.tex
+**wirtschaft_skriptum.tex
+(./wirtschaft_skriptum.tex
 LaTeX2e <2011/06/27>
 Babel <3.9f> and hyphenation patterns for 78 languages loaded.
-(/usr/share/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(/usr/share/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -24,20 +24,6 @@ File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2013/05/16 v3.9f The Babel package
-
-(/usr/share/texmf-dist/tex/generic/babel-german/germanb.ldf
-Language: germanb 2008/06/01 v2.6m German support from the babel system
-
-(/usr/share/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2013/05/16 v3.9f Babel common definitions
-\babel@savecnt=\count88
-\U@D=\dimen103
-)
-\l@austrian = a dialect from \language\l@german 
-Package babel Info: Making " an active character on input line 102.
-))
 (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
@@ -254,133 +240,223 @@ Now handling font encoding U ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-)) (./GeschichteSkriptum.aux)
-\openout1 = `GeschichteSkriptum.aux'.
+))
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2013/05/16 v3.9f The Babel package
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+(/usr/share/texmf-dist/tex/generic/babel-german/germanb.ldf
+Language: germanb 2008/06/01 v2.6m German support from the babel system
 
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2013/05/16 v3.9f Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@austrian = a dialect from \language\l@german 
+Package babel Info: Making " an active character on input line 102.
+))
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count89
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(./wirtschaft_skriptum.aux)
+\openout1 = `wirtschaft_skriptum.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+(/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count90
+\scratchdimen=\dimen106
+\scratchbox=\box26
+\nofMPsegments=\count91
+\nofMParguments=\count92
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count93
+\MPscratchDim=\dimen107
+\MPnumerator=\count94
+\makeMPintoPDFobject=\count95
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 Kapitel 1.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 14.
+<image/image1.png, id=1, 435.42674pt x 137.67435pt>
+File: image/image1.png Graphic file (type png)
+ <use image/image1.png>
+Package pdftex.def Info: image/image1.png used on input line 15.
+(pdftex.def)             Requested size: 348.34186pt x 110.1396pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--21
+
+ []
+
+
+Overfull \hbox (3.34186pt too wide) in paragraph at lines 10--21
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--21
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 23.
 (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
  [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 44.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 44.
- [2]
-Overfull \hbox (24.37561pt too wide) in paragraph at lines 88--89
-[]\OT1/cmr/m/n/10 jene Ge-bie-te, die die So-wje-tu-ni-on be-freit hat, die sin
-d nicht in die Selbst[]andigkeit
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./image/image1.png>]
+Overfull \hbox (10.16725pt too wide) in paragraph at lines 48--49
+[]\OT1/cmr/m/n/10 Produktionsg[]uter (G[]uter mit den sich an-de-re G[]uter her
+-stel-len las-sen k[]onnen) 
  []
 
-
-Overfull \hbox (11.58392pt too wide) in paragraph at lines 88--89
-[]\OT1/cmr/m/n/10 uberlassen wor-den (Po-len, Un-garn, Tsche-cho-slo-wea-kei, B
-ul-ga-ri-en, Rum[]anien,
- []
-
-[3] [4
-
-]
+[2]
 Kapitel 2.
-[5] [6
+[3
 
 ]
 Kapitel 3.
+[4
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--142
+]
+Kapitel 4.
+[5
 
- []
+]
+Kapitel 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 73.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 73.
+[6
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--142
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--142
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--142
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--142
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--142
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--142
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--142
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--142
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--142
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--142
-
- []
-
-
-Underfull \vbox (badness 2698) has occurred while \output is active []
-
- [7]
-[8] (./GeschichteSkriptum.aux) ) 
+] (./wirtschaft_skriptum.aux) ) 
 Here is how much of TeX's memory you used:
- 898 strings out of 493311
- 10098 string characters out of 6143650
- 71068 words of memory out of 5000000
- 4404 multiletter control sequences out of 15000+600000
- 4906 words of font info for 18 fonts, out of 8000000 for 9000
+ 2151 strings out of 493311
+ 28469 string characters out of 6143650
+ 92552 words of memory out of 5000000
+ 5592 multiletter control sequences out of 15000+600000
+ 4861 words of font info for 18 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 23i,4n,23p,773b,253s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
-fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on GeschichteSkriptum.pdf (8 pages, 69069 bytes).
+ 37i,5n,23p,779b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on wirtschaft_skriptum.pdf (6 pages, 97522 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 42 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
