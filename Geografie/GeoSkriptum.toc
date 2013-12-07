@@ -1,0 +1,9 @@
+\contentsline {chapter}{\numberline {1}M\IeC {\"a}rkte als Orte des Wirtschaftes}{2}
+\contentsline {chapter}{\numberline {2}\IeC {\"O}konomisches Prinzip}{3}
+\contentsline {chapter}{\numberline {3}Produktionsfaktoren}{4}
+\contentsline {section}{\numberline {3.1}Grund und Boden (inklusive Rohstoffe)}{4}
+\contentsline {section}{\numberline {3.2}Arbeit}{4}
+\contentsline {subsection}{\numberline {3.2.1}Situation in \IeC {\"O}sterreich}{5}
+\contentsline {section}{\numberline {3.3}Kapital}{5}
+\contentsline {section}{\numberline {3.4}Wissen}{6}
+\contentsline {chapter}{\numberline {4}Wirtschaft im Wandel}{7}
