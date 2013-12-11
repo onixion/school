@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  5 DEC 2013 23:07
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  11 DEC 2013 16:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -415,48 +415,92 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./image/image1.png>]
-Overfull \hbox (10.16725pt too wide) in paragraph at lines 48--49
+Kapitel 2.
+
+Overfull \hbox (10.16725pt too wide) in paragraph at lines 46--47
 []\OT1/cmr/m/n/10 Produktionsg[]uter (G[]uter mit den sich an-de-re G[]uter her
 -stel-len las-sen k[]onnen) 
  []
 
-[2]
-Kapitel 2.
-[3
+[2
 
 ]
 Kapitel 3.
-[4
+[3
 
 ]
 Kapitel 4.
-[5
+
+Overfull \hbox (2.02832pt too wide) in paragraph at lines 74--75
+[]\OT1/cmr/m/n/10 Transparenz in der Pro-duk-ti-on und auch leich-te Feh-ler-su
+-che im Ar-beitspro-
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 80.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 80.
+
+Overfull \hbox (4.72281pt too wide) in paragraph at lines 89--90
+[]\OT1/cmr/m/n/10 job ro-ta-ti-on: Nach ei-nem fe-sten Sy-stem wer-den re-gelm[
+]a^^Yig die Ar-beitspl[]atze
+ []
+
+[4
+
+] [5]
+Kapitel 5.
+[6
 
 ]
-Kapitel 5.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 73.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 73.
-[6
+Kapitel 6.
+[7
+
+]
+Kapitel 7.
+[8
+
+]
+Kapitel 8.
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--168
+
+ []
+
+[9
 
 ] (./wirtschaft_skriptum.aux) ) 
 Here is how much of TeX's memory you used:
- 2151 strings out of 493311
- 28469 string characters out of 6143650
+ 2156 strings out of 493311
+ 28536 string characters out of 6143650
  92552 words of memory out of 5000000
- 5592 multiletter control sequences out of 15000+600000
- 4861 words of font info for 18 fonts, out of 8000000 for 9000
+ 5596 multiletter control sequences out of 15000+600000
+ 6071 words of font info for 22 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,5n,23p,779b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,5n,23p,779b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
 fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on wirtschaft_skriptum.pdf (6 pages, 97522 bytes).
+Output written on wirtschaft_skriptum.pdf (9 pages, 104356 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+ 53 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

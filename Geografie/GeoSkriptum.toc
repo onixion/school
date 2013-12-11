@@ -7,3 +7,4 @@
 \contentsline {section}{\numberline {3.3}Kapital}{5}
 \contentsline {section}{\numberline {3.4}Wissen}{6}
 \contentsline {chapter}{\numberline {4}Wirtschaft im Wandel}{7}
+\contentsline {chapter}{\numberline {5}Neoliberalismus}{8}
