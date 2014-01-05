@@ -22,7 +22,8 @@ Ereignisse in sehr kurzer Zeit reagieren.
 
 \section{Aufgaben des Betriebssytem}
 
-Die Aufgaben eines Betriebssystems sind Speichermanagment, Prozessorzeit für jeweilige Programme bereitstellen, Managment der jeweiligen Komponenten des 
+Die Aufgaben eines Betriebssystems sind Speichermanagment,
+\chapter{Vir Prozessorzeit für jeweilige Programme bereitstellen, Managment der jeweiligen Komponenten des 
 Computers und auch das Managment der Treiber. 
 
 \section{Hardware}
@@ -85,8 +86,45 @@ Jedes Programm bekommt einen virtuellen Speicher. Zwei wichtige Speicher:
 Threads sind Unterprogramme, die parallel zum Hauptthread läuft. IPC (Inter Process Communication) kann mit anderen Prozessen kommunizieren.
 Der gemeinsame Speicher muss coordiniert werden (Pipes). Pipes sind sequenziell nach dem Vif-Prinzip. Verwendet man gerne für Ein- und Ausgabe. Locks sind dazu da Interupts zu verhindern. Semaphore eine Datenstruktur, die sagt ob eine Resource noch frei ist oder nicht (Zähler der Zählt ob und wieviel noch frei ist). Mutex (Multiple Executer). Multi-Tasking wird durch den Sceudel möglch gemacht (bei Prozessoren mit einem Kern werden die PRogramme, die gleichzeitig auszuführen sind, zeitverschoben ausgeführt. 
 
+\chapter{Dateisystem}
+
+Dateisystem sind für das Management der Daten verantwortlich (Speichern, Öffnen, Ändern). Metadaten sind Informationsdaten für Daten (z.B. Erstelldatum, Ersteller, Größe, etc).
 
 
-\end{document}
+Bekannte Dateisysteme:
+
+\begin{itemize}
+\item NTFS: (Windows)
+\item Ext: (Linux) Journalsystem $\rightarrow$ notiert sich alle Operationen, so kann bei einem Absturz genau gesehen welche Operationen ausgeführt wurden und welche nicht; Puffermechanismen stellen sicher, das die letzten Operationen trotz Stromausfalls zu Ende geführt wird
+\end{itemize}
+
+SSD Festplatten ist eigentlich wie ein USB-Stick. SDD Festplatten haben eine andere Schnittstelle als USB-Stick., nämlich eSata.
+\newline
+\newline
+Nachteil der SSD-Festplatten: die Zellen dieser Festplatten können verlieren ihre Speicher (1000 Zyklen).
+\newline
+\newline
+FAT war das Ur-Dateisystem von Microsoft. FAT32 war die Weiterentwicklung von FAT. NTFS wurde auch von Microsoft entwickelt und ist heute das modernste Dateisystem von Microsoft.
+\newline
+\newline
+Wenn Daten gespeichert werden, können Daten aus Platzgründen auf verschiedenen Stellen auf dem Speichermedium gespeichert werden (=aufgespalten; Fragmentierung). Die Zugriffsdauer wird erhöht sich aber, da das Betriebssystem die Daten zusammensuchen muss.
+\newline
+\newline
+Apple hat auch seine eigene Dateisystem erfunden (=HPFS; High Performance File System).
+\newline
+\newline
+Novell hat NFFS und NNS entwickelt (Speicher Virtualisierung).
+\newline
+\newline
+Dateisystem gibt es auf allen Speichermedien verschiedene (CDs, USB, ...).
+
+\chapter{Virtualisierung}
+
+(= wir tun so als ob) z.B. RAM
+
+
+
+
+\end{document}x
 
 
