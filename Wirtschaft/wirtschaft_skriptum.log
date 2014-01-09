@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  11 DEC 2013 16:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  9 JAN 2014 10:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -290,18 +290,18 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 (./wirtschaft_skriptum.aux)
 \openout1 = `wirtschaft_skriptum.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 
 (/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -368,56 +368,56 @@ Kapitel 1.
 <image/image1.png, id=1, 435.42674pt x 137.67435pt>
 File: image/image1.png Graphic file (type png)
  <use image/image1.png>
-Package pdftex.def Info: image/image1.png used on input line 15.
+Package pdftex.def Info: image/image1.png used on input line 16.
 (pdftex.def)             Requested size: 348.34186pt x 110.1396pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--21
+Underfull \hbox (badness 10000) in paragraph at lines 11--22
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--21
+Underfull \hbox (badness 10000) in paragraph at lines 11--22
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--21
+Underfull \hbox (badness 10000) in paragraph at lines 11--22
 
  []
 
 
-Overfull \hbox (3.34186pt too wide) in paragraph at lines 10--21
+Overfull \hbox (3.34186pt too wide) in paragraph at lines 11--22
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--21
+Underfull \hbox (badness 10000) in paragraph at lines 11--22
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--21
+Underfull \hbox (badness 10000) in paragraph at lines 11--22
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--21
+Underfull \hbox (badness 10000) in paragraph at lines 11--22
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 23.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 24.
 (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
  [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./image/image1.png>]
 Kapitel 2.
 
-Overfull \hbox (10.16725pt too wide) in paragraph at lines 46--47
+Overfull \hbox (10.16725pt too wide) in paragraph at lines 47--48
 []\OT1/cmr/m/n/10 Produktionsg[]uter (G[]uter mit den sich an-de-re G[]uter her
 -stel-len las-sen k[]onnen) 
  []
@@ -431,17 +431,17 @@ Kapitel 3.
 ]
 Kapitel 4.
 
-Overfull \hbox (2.02832pt too wide) in paragraph at lines 74--75
+Overfull \hbox (2.02832pt too wide) in paragraph at lines 75--76
 []\OT1/cmr/m/n/10 Transparenz in der Pro-duk-ti-on und auch leich-te Feh-ler-su
 -che im Ar-beitspro-
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 80.
+(Font)              <7> on input line 81.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 80.
+(Font)              <5> on input line 81.
 
-Overfull \hbox (4.72281pt too wide) in paragraph at lines 89--90
+Overfull \hbox (4.72281pt too wide) in paragraph at lines 90--91
 []\OT1/cmr/m/n/10 job ro-ta-ti-on: Nach ei-nem fe-sten Sy-stem wer-den re-gelm[
 ]a^^Yig die Ar-beitspl[]atze
  []
@@ -463,28 +463,28 @@ Kapitel 7.
 ]
 Kapitel 8.
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--137
+Underfull \hbox (badness 10000) in paragraph at lines 135--138
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--137
+Underfull \hbox (badness 10000) in paragraph at lines 135--138
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--168
+Underfull \hbox (badness 10000) in paragraph at lines 166--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--168
+Underfull \hbox (badness 10000) in paragraph at lines 166--169
 
  []
 
 [9
 
-] (./wirtschaft_skriptum.aux) ) 
+] [10] (./wirtschaft_skriptum.aux) ) 
 Here is how much of TeX's memory you used:
  2156 strings out of 493311
  28536 string characters out of 6143650
@@ -493,14 +493,14 @@ Here is how much of TeX's memory you used:
  6071 words of font info for 22 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  37i,5n,23p,779b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
-fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on wirtschaft_skriptum.pdf (9 pages, 104356 bytes).
+</usr/share/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on wirtschaft_skriptum.pdf (10 pages, 104852 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

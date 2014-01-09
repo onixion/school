@@ -1,4 +1,4 @@
-\documentclass[a4paper,final]{report}
+\documentclass[a4paper]{report}
 \usepackage[utf8]{inputenc}
 \usepackage[german]{babel}
 
@@ -67,7 +67,7 @@ Ein Server stellt anderen Clients bestimmte Informationen zur Verfügung.
 
 Ein Prozess ist ein Programm in Ausführung (laufendes Programm bildet ein Prozess). Der Prozess muss auf bestimmten Hardwareresourcen (RAM, ...) zugreifen können. Prozess ist stark gekapselt, ist in seiner eigenen Welt. Das Betriebssystem muss diese Prozesse verwalten (Prozesstabelle).
 
-Prozess muss erzeugt werden. Resourcen bereitgestellt werden (Virtueller Speicher, ...). Dieses Programm wird nicht ununterbrochen laufen. Der Sceduel sorgt dafür das das Programm unterbrochen wird damit andere PRogramme gleichtzig laufen können (Zeitmultiplexen).
+Prozess muss erzeugt werden. Resourcen bereitgestellt werden (Virtueller Speicher, ...). Dieses Programm wird nicht ununterbrochen laufen. Der Sceduel sorgt dafür das das Programm unterbrochen wird damit andere Programme gleichtzig laufen können (Zeitmultiplexen).
 
 Task (=Aufgabe) heißt er kann mehrer Prozesse gleichzeitig erledigen (parallel). Mit einem Prozessorkern können nicht Programme gleichzeitig laufen.
 
@@ -121,10 +121,25 @@ Dateisystem gibt es auf allen Speichermedien verschiedene (CDs, USB, ...).
 \chapter{Virtualisierung}
 
 (= wir tun so als ob) z.B. RAM
+\newline
+Warum man so tut als ob? - Speicher RAM, VLANs und bei der Partitionierung tut der Computer so als ob.
+\newline
+Der Hauptgrund dafür ist das Computer viel Leistung haben, aber nicht verwenden. Viele Server haben für längere Zeiten nichts zu tun gehabt und bei vielen Servern im Jahr kann die Stromrechnung sehr hoch werden.
+Deshalb virtualisiert man auf einer Maschine z.B. fünf Maschinen, um nur einen Server aus zulasten und Geld zu sparen.
+\newline
+Das Ziel ist die bestmögliste Nutzung der physikalischen Maschine.
+\newline
+Arten der Virtualisierung:
+
+\begin{itemize}
+\item Betriebssystemvirtualisierung: Hyperwisor ist ein Manager, der die verschiedenen virtuellen Betriebssysteme managt (Prozessorzeit, Netzwerk, ...).
+
+\item Denktopvirtualisierung: z.B. Amazon bietet mir einen virtuellen Computer.
+
+\item Applikationsvirtualisierung: Vine (=Vine is not an emulator)
+\end{itemize}
 
 
-
-
-\end{document}x
+\end{document}
 
 

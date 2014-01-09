@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  18 DEC 2013 08:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  8 JAN 2014 08:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -364,23 +364,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 108--142
 Underfull \vbox (badness 2698) has occurred while \output is active []
 
  [7]
-[8] (./GeschichteSkriptum.aux) ) 
+[8]
+Overfull \hbox (8.38954pt too wide) in paragraph at lines 155--170
+\OT1/cmr/m/n/10 Am 13.4.1945 wird Wi-en durch die ro-te Ar-mee ein-ge-nom-men. 
+Be-reits am 27.4.1945
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--170
+
+ []
+
+
+Overfull \hbox (8.91713pt too wide) in paragraph at lines 155--170
+\OT1/cmr/m/n/10 ten bei den er-sten Wahlen nicht mitw[]ahlen (wa-ren in et-wa 3
+0% der []osterreichischen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--193
+
+ []
+
+[9] (./GeschichteSkriptum.aux) ) 
 Here is how much of TeX's memory you used:
- 898 strings out of 493311
- 10098 string characters out of 6143650
+ 901 strings out of 493311
+ 10136 string characters out of 6143650
  71068 words of memory out of 5000000
- 4404 multiletter control sequences out of 15000+600000
- 4906 words of font info for 18 fonts, out of 8000000 for 9000
+ 4406 multiletter control sequences out of 15000+600000
+ 5511 words of font info for 20 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 23i,4n,23p,773b,253s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,5n,23p,773b,253s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
 fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on GeschichteSkriptum.pdf (8 pages, 69069 bytes).
+Output written on GeschichteSkriptum.pdf (9 pages, 72671 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 50 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
