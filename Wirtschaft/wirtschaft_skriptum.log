@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  9 JAN 2014 10:46
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  16 JAN 2014 12:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -484,23 +484,125 @@ Underfull \hbox (badness 10000) in paragraph at lines 166--169
 
 [9
 
-] [10] (./wirtschaft_skriptum.aux) ) 
+]
+Underfull \hbox (badness 10000) in paragraph at lines 182--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--194
+
+ []
+
+
+Overfull \hbox (40.20906pt too wide) in paragraph at lines 207--208
+\OT1/cmr/m/n/10 Ge-mein-schaf-ten samt Anh[]angen, Pro-to-kol-len, Erg[]anzunge
+n, un-ter Ber[]ucksichtigung
+ []
+
+
+Overfull \hbox (10.75362pt too wide) in paragraph at lines 209--210
+[]\OT1/cmr/bx/n/10 Sekund[]ares Ge-mein-schafts-recht\OT1/cmr/m/n/10 : Das von 
+den Or-ga-nen der Eu-rop[]aischen
+ []
+
+
+Overfull \hbox (5.35939pt too wide) in paragraph at lines 211--212
+[][]\OT1/cmr/bx/n/10 Ein-fa-ches"Bundesverfassungsrecht (Lan-des-ver-fas-sungs-
+ge-setz)\OT1/cmr/m/n/10 : Al-
+ []
+
+
+Overfull \hbox (18.01201pt too wide) in paragraph at lines 213--214
+[]\OT1/cmr/bx/n/10 Bundesgesetz (Lan-des-ge-setz)\OT1/cmr/m/n/10 : Auch ein-fa-
+ches Bun-des-ge-setz (im Verh[]altnis
+ []
+
+
+Overfull \hbox (57.63918pt too wide) in paragraph at lines 215--216
+[]\OT1/cmr/bx/n/10 Verordnung\OT1/cmr/m/n/10 : Erl[]autert oder erg[]anzt ein G
+e-setz (Aus- oder Durchf[]uhrungsverordnung);
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 220--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--226
+
+ []
+
+[11]
+Overfull \hbox (6.58392pt too wide) in paragraph at lines 240--247
+\OT1/cmr/m/n/10 selbstst[]andigen Bun-desl[]andern, die in ih-rem je-wei-li-gen
+ Be-reich selbstst[]andig
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--247
+
+ []
+
+
+Overfull \hbox (6.52835pt too wide) in paragraph at lines 240--247
+\OT1/cmr/m/n/10 In ei-nem Bun-des-staat wird die po-li-ti-sche Macht zwi-schen 
+Bund und L[]andern
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--261
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--261
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--261
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--261
+
+ []
+
+[12] [13] (./wirtschaft_skriptum.aux) ) 
 Here is how much of TeX's memory you used:
- 2156 strings out of 493311
- 28536 string characters out of 6143650
- 92552 words of memory out of 5000000
- 5596 multiletter control sequences out of 15000+600000
+ 2164 strings out of 493311
+ 28640 string characters out of 6143650
+ 97552 words of memory out of 5000000
+ 5604 multiletter control sequences out of 15000+600000
  6071 words of font info for 22 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,5n,23p,779b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
-x12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/s
-hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on wirtschaft_skriptum.pdf (10 pages, 104852 bytes).
+ 37i,5n,23p,1443b,200s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on wirtschaft_skriptum.pdf (13 pages, 124266 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 66 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

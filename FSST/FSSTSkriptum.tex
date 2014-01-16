@@ -23,7 +23,7 @@ Ereignisse in sehr kurzer Zeit reagieren.
 \section{Aufgaben des Betriebssytem}
 
 Die Aufgaben eines Betriebssystems sind Speichermanagment,
-\chapter{Vir Prozessorzeit für jeweilige Programme bereitstellen, Managment der jeweiligen Komponenten des 
+Prozessorzeit für jeweilige Programme bereitstellen, Managment der jeweiligen Komponenten des 
 Computers und auch das Managment der Treiber. 
 
 \section{Hardware}
@@ -127,18 +127,56 @@ Warum man so tut als ob? - Speicher RAM, VLANs und bei der Partitionierung tut d
 Der Hauptgrund dafür ist das Computer viel Leistung haben, aber nicht verwenden. Viele Server haben für längere Zeiten nichts zu tun gehabt und bei vielen Servern im Jahr kann die Stromrechnung sehr hoch werden.
 Deshalb virtualisiert man auf einer Maschine z.B. fünf Maschinen, um nur einen Server aus zulasten und Geld zu sparen.
 \newline
-Das Ziel ist die bestmögliste Nutzung der physikalischen Maschine.
+Das Ziel ist die bestmögliche Nutzung der physikalischen Maschine. Energieeffizienz ist ein sehr wichtiger Grund für das Verwenden der Virtualisierung. Energie soll so effizient wie möglich verwendet werden.
 \newline
 Arten der Virtualisierung:
 
 \begin{itemize}
 \item Betriebssystemvirtualisierung: Hyperwisor ist ein Manager, der die verschiedenen virtuellen Betriebssysteme managt (Prozessorzeit, Netzwerk, ...).
 
-\item Denktopvirtualisierung: z.B. Amazon bietet mir einen virtuellen Computer.
+\item Denktopvirtualisierung (Clientvirtualisierung): z.B. Amazon bietet mir einen virtuellen Computer.
 
-\item Applikationsvirtualisierung: Vine (=Vine is not an emulator)
+\item Applikationsvirtualisierung: Vine (Sandbox für Windows Applikationen)
+
+\item Netzwerkvirtualisierung
+
+\item Speichervirtualisierung
 \end{itemize}
 
+Vorteil der Virtualisierung:
+
+\begin{itemize}
+\item Redundanz (=Ausfallsicherheit)
+\item Flexibilität
+\item Effizienter Energieverbrauch
+\end{itemize}
+
+\newpage
+
+\chapter{Was brauch ich für die Virtualisierung?}
+\begin{itemize}
+\item Hardware
+\item Software die die Virtualisierung organisiert - Hypervisor 
+\end{itemize}
+
+\section{Hypervisor}
+
+Hypervisor überwacht und koordiniert die Verteilung der Ressourcen auf den virtuellen Maschinen. 
+
+ \subsection{Arten}
+ 
+\begin{itemize}
+\item Hardware Virtualisierung
+\item Hardware Emulation (Simulation)
+\item Hardware Parallel Virtualisierung
+\end{itemize}
+
+
+\subsubsection{Hardware Emulation}
+
+Dort wird das gesamte System ''nach gebaut''. Emulieren heißt er macht alles mit Software (z.B. Atmel Simulator). Nachteil: alle Instruktionen müssen auf dem Prozessor emuliert werden und das braucht viel Rechenleistung. Vorteil: man kann Prozessor wählen, Netzwerkkarten und so weiter.
+\newline
+Anbieter solcher Emulatoren: Bochs, QEMU (Quick Emulator), VirtualBox (Oracle)
 
 \end{document}
 
