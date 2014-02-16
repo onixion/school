@@ -174,9 +174,18 @@ Hypervisor überwacht und koordiniert die Verteilung der Ressourcen auf den virt
 
 \subsubsection{Hardware Emulation}
 
-Dort wird das gesamte System ''nach gebaut''. Emulieren heißt er macht alles mit Software (z.B. Atmel Simulator). Nachteil: alle Instruktionen müssen auf dem Prozessor emuliert werden und das braucht viel Rechenleistung. Vorteil: man kann Prozessor wählen, Netzwerkkarten und so weiter.
+Dort wird das gesamte System ''nach gebaut''. Emulieren heißt er macht alles mit Software (z.B. Atmel Simulator). Nachteil: alle Instruktionen müssen auf dem Prozessor emuliert werden und das braucht viel Rechenleistung. Vorteil: man kann Prozessor wählen, Netzwerkkarten und so weiter. Emulieren ist wenn die Prozessorarchitektur variable sein soll, wenn der gleiche Prozesser verwendet wird spricht man von Hardware-Virtualisierung (Andere Hardware außer dem Prozessor können nachgebildet werden).
+\newline
 \newline
 Anbieter solcher Emulatoren: Bochs, QEMU (Quick Emulator), VirtualBox (Oracle)
+
+\subsubsection{Parallel Virtualisierung}
+
+Prozessor wird nicht nachgebildet. Klar definierte API.
+
+Hypervisor Typ 2 | Anwendung auf der die MAschinen laufen
+Hypervisor Typ 1 | Verzichtet auf das Basissystem
+
 
 \end{document}
 

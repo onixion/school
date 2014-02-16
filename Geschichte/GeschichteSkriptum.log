@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  15 JAN 2014 08:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  29 JAN 2014 08:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -398,30 +398,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 177--181
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--200
+Underfull \hbox (badness 10000) in paragraph at lines 189--212
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--200
+Underfull \hbox (badness 10000) in paragraph at lines 189--212
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--200
+Underfull \hbox (badness 10000) in paragraph at lines 189--212
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--200
+Underfull \hbox (badness 10000) in paragraph at lines 189--212
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--212
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--212
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--212
+
+ []
+
+
+Overfull \hbox (7.91731pt too wide) in paragraph at lines 189--212
+\OT1/cmr/m/n/10 Kreisky star-tet ei-ne Bil-dungs-of-fen-si-ve $\OMS/cmsy/m/n/10
+ !$ \OT1/cmr/m/n/10 Bau von h[]oheren Schu-len. Hei-ratspr[]amie,
  []
 
 [7] [8] (./GeschichteSkriptum.aux) ) 
 Here is how much of TeX's memory you used:
  895 strings out of 493311
  10079 string characters out of 6143650
- 70976 words of memory out of 5000000
+ 72976 words of memory out of 5000000
  4401 multiletter control sequences out of 15000+600000
  5158 words of font info for 19 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -429,7 +450,7 @@ Here is how much of TeX's memory you used:
 </usr/share/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on GeschichteSkriptum.pdf (8 pages, 60470 bytes).
+Output written on GeschichteSkriptum.pdf (8 pages, 62408 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  29 compressed objects within 1 object stream
