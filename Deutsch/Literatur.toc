@@ -30,17 +30,22 @@
 \contentsline {subsubsection}{\numberline {8.1.2}Hochromantik}{17}
 \contentsline {subsubsection}{\numberline {8.1.3}Berlinerromantik}{18}
 \contentsline {section}{\numberline {9}Biedermeier = Vorm\IeC {\"a}rz (1915 bis 1948)}{19}
-\contentsline {subsection}{\numberline {9.1}Wichtiger Ereignisse:}{19}
-\contentsline {section}{\numberline {10}Junges Deutschland (1830 bis 1835}{20}
+\contentsline {subsection}{\numberline {9.1}Wichtiger Ereignisse}{19}
+\contentsline {section}{\numberline {10}Junges Deutschland (1830 bis 1835)}{20}
 \contentsline {subsection}{\numberline {10.1}Allgemeines}{20}
-\contentsline {section}{\numberline {11}M\IeC {\"a}rzrevolution}{21}
+\contentsline {section}{\numberline {11}M\IeC {\"a}rzrevolution (1948)}{21}
 \contentsline {subsection}{\numberline {11.1}Allgemeines}{21}
-\contentsline {subsection}{\numberline {11.2}Wichtige Autoren:}{21}
+\contentsline {subsection}{\numberline {11.2}Wichtige Autoren}{21}
 \contentsline {section}{\numberline {12}B\IeC {\"u}rgerlicher oder Poetischer Realismus (1848 bis 1885)}{22}
 \contentsline {subsection}{\numberline {12.1}Allgemeines}{22}
-\contentsline {subsection}{\numberline {12.2}K\IeC {\"u}nstler:}{23}
+\contentsline {subsection}{\numberline {12.2}K\IeC {\"u}nstler}{23}
 \contentsline {subsection}{\numberline {12.3}Julia und Romeo am LAnde}{23}
-\contentsline {subsection}{\numberline {12.4}Autoren zu dieser Zeit:}{24}
-\contentsline {subsection}{\numberline {12.5}Wichtige Philosophen:}{24}
-\contentsline {section}{\numberline {13}Naturalismus (1880 bis 1900}{25}
+\contentsline {subsection}{\numberline {12.4}Autoren zu dieser Zeit}{24}
+\contentsline {subsection}{\numberline {12.5}Wichtige Philosophen}{24}
+\contentsline {section}{\numberline {13}Naturalismus (1880 bis 1900)}{25}
 \contentsline {subsection}{\numberline {13.1}Allgemeines}{25}
+\contentsline {subsubsection}{\numberline {13.1.1}Historische Hintergr\IeC {\"u}nde}{25}
+\contentsline {subsubsection}{\numberline {13.1.2}Politische Hintergr\IeC {\"u}nde}{25}
+\contentsline {subsubsection}{\numberline {13.1.3}Literatur}{25}
+\contentsline {subsubsection}{\numberline {13.1.4}Deutschsprachige Autoren}{26}
+\contentsline {subsubsection}{\numberline {13.1.5}Andere Autoren}{26}

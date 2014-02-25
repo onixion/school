@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  5 FEB 2014 13:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  25 FEB 2014 18:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -494,82 +494,47 @@ Overfull \hbox (27.37105pt too wide) in paragraph at lines 166--167
 . Sehr schmerzhaft. Hizegef^^?uhl. 
  []
 
-
-LaTeX Warning: Command \" invalid in math mode on input line 170.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.170 ... des Normal Gewichts [$\frac{kg}{Größe}
-                                                  kg/(Größe)hoch2]. $
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.170 ... des Normal Gewichts [$\frac{kg}{Größe}
-                                                  kg/(Größe)hoch2]. $
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Warning: Command \ss invalid in math mode on input line 170.
-
-
-LaTeX Warning: Command \" invalid in math mode on input line 170.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.170 ...mal Gewichts [$\frac{kg}{Größe}kg/(Grö
-                                                  ße)hoch2]. $
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.170 ...mal Gewichts [$\frac{kg}{Größe}kg/(Grö
-                                                  ße)hoch2]. $
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Warning: Command \ss invalid in math mode on input line 170.
-
-Missing character: There is no � in font cmex10!
-Missing character: There is no � in font cmex10!
 [5]
-Overfull \hbox (22.98668pt too wide) in paragraph at lines 196--197
-[]\OT1/cmr/m/n/10 Eiwei^^Ye | Grundbe-standteil= Amins^^?aure, wie viele un-ter
--schiedlieche Aminos^^?aure
+Overfull \hbox (11.91728pt too wide) in paragraph at lines 201--202
+[]\OT1/cmr/m/n/10 R^^?oteln: sind ^^?ahnlich wie die Masern, kommt zu Schwellun
+g der N^^?umpfknoten;
  []
 
-[6] (./mitschrift.aux) ) 
+
+Overfull \hbox (2.62102pt too wide) in paragraph at lines 205--206
+\OT1/cmr/m/n/10 gen). Aids ist ein Spezial-fall der Virusimpf-sek-tion. F^^?uhr
+t let-ztlich zur Zerst^^?orung
+ []
+
+[6]
+Overfull \hbox (9.61172pt too wide) in paragraph at lines 221--224
+\OT1/cmr/m/n/10 z.B. Kartof-fel, Ge-trei-des-orten Cel-lu-lose Ei-wei^^Ye | Gru
+ndbe-standteil= Amins^^?aure,
+ []
+
+
+Overfull \hbox (36.34323pt too wide) in paragraph at lines 221--224
+\OT1/cmr/m/n/10 wie viele un-ter-schiedlieche Aminos^^?aure gibt es: 20; Zusam-
+menset-zung von Aminos^^?au^^Yren
+ []
+
+[7] (./mitschrift.aux) ) 
 Here is how much of TeX's memory you used:
- 1711 strings out of 493311
- 22922 string characters out of 6143650
- 82800 words of memory out of 5000000
- 5163 multiletter control sequences out of 15000+600000
+ 1710 strings out of 493311
+ 22914 string characters out of 6143650
+ 83800 words of memory out of 5000000
+ 5162 multiletter control sequences out of 15000+600000
  5158 words of font info for 19 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,5n,23p,575b,144s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,5n,23p,787b,144s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
->
-Output written on mitschrift.pdf (6 pages, 157246 bytes).
+r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on mitschrift.pdf (7 pages, 134450 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 51 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,15 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1391607928 "mitschrift.tex" "mitschrift.pdf" "mitschrift" 1391607929
+["pdflatex"] 1393351681 "mitschrift.tex" "mitschrift.pdf" "mitschrift" 1393351683
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1378714603 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1378714596 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1378714596 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1378714596 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1378714605 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1378714605 32080 340ef9bf63678554ee606688e7b5339d ""
-  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1378714606 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
-  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1378714606 36281 c355509802a035cadc5f15869451dcee ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1378714606 35752 024fb6c41858982481f6968b5fc26508 ""
-  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1378714606 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1378714606 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii" 1378714618 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty" 1378714613 7612 c47308d923ec19888707b0f1792b326a ""
@@ -44,9 +41,9 @@
   "image/1.png" 1389201075 36291 3787e7c0514fbe65d247969cd441fcc1 ""
   "image/2.png" 1389279413 17580 5a6403596d22b80b731881ad2c7728c6 ""
   "image/3.png" 1389280831 31470 5965f6836c8f46bae1388169621aca8b ""
-  "mitschrift.aux" 1391607929 1311 88ee262333bf7e6df3d8e13a09acb1d6 ""
-  "mitschrift.tex" 1391607926 8777 4cb1139c657dc0f24f20f918eaf1eeef ""
+  "mitschrift.aux" 1393351683 1311 872b5a6da90b784b201e91f16cbc9763 ""
+  "mitschrift.tex" 1393351681 11213 25195d3cf8722fb89417c9d7c2613adb ""
   (generated)
+  "mitschrift.log"
   "mitschrift.aux"
   "mitschrift.pdf"
-  "mitschrift.log"
