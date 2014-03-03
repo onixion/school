@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  19 FEB 2014 08:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  26 FEB 2014 08:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -271,28 +271,27 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 
 Kapitel 1.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 13.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 12.
 (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 39.
  [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 43.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 43.
- [2]
-Overfull \hbox (24.37561pt too wide) in paragraph at lines 87--88
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Overfull \hbox (24.37561pt too wide) in paragraph at lines 79--80
 []\OT1/cmr/m/n/10 jene Ge-bie-te, die die So-wje-tu-ni-on be-freit hat, die sin
 d nicht in die Selbst[]andigkeit
  []
 
 
-Overfull \hbox (11.58392pt too wide) in paragraph at lines 87--88
+Overfull \hbox (11.58392pt too wide) in paragraph at lines 79--80
 []\OT1/cmr/m/n/10 uberlassen wor-den (Po-len, Un-garn, Tsche-cho-slo-wea-kei, B
 ul-ga-ri-en, Rum[]anien,
  []
@@ -304,188 +303,203 @@ Kapitel 2.
 ]
 Kapitel 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--141
+Underfull \hbox (badness 10000) in paragraph at lines 99--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--141
+Underfull \hbox (badness 10000) in paragraph at lines 99--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--141
+Underfull \hbox (badness 10000) in paragraph at lines 99--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--141
+Underfull \hbox (badness 10000) in paragraph at lines 99--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--141
+Underfull \hbox (badness 10000) in paragraph at lines 99--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--141
+Underfull \hbox (badness 10000) in paragraph at lines 99--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--141
+Underfull \hbox (badness 10000) in paragraph at lines 99--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--141
+Underfull \hbox (badness 10000) in paragraph at lines 99--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--141
+Underfull \hbox (badness 10000) in paragraph at lines 99--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--141
+Underfull \hbox (badness 10000) in paragraph at lines 99--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--141
+Underfull \hbox (badness 10000) in paragraph at lines 99--133
 
  []
 
 [5
 
 ] [6]
-Overfull \hbox (8.38954pt too wide) in paragraph at lines 154--169
+Overfull \hbox (8.38954pt too wide) in paragraph at lines 146--161
 \OT1/cmr/m/n/10 Am 13.4.1945 wird Wi-en durch die ro-te Ar-mee ein-ge-nom-men. 
 Be-reits am 27.4.1945
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--169
+Underfull \hbox (badness 10000) in paragraph at lines 146--161
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--169
+Underfull \hbox (badness 10000) in paragraph at lines 146--161
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--169
+Underfull \hbox (badness 10000) in paragraph at lines 146--161
 
  []
 
 
-Overfull \hbox (8.91713pt too wide) in paragraph at lines 154--169
+Overfull \hbox (8.91713pt too wide) in paragraph at lines 146--161
 \OT1/cmr/m/n/10 ten bei den er-sten Wahlen nicht mitw[]ahlen (wa-ren in et-wa 3
 0% der []osterreichischen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--169
+Underfull \hbox (badness 10000) in paragraph at lines 146--161
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--180
+Underfull \hbox (badness 10000) in paragraph at lines 168--172
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--228
+Underfull \hbox (badness 10000) in paragraph at lines 180--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--228
+Underfull \hbox (badness 10000) in paragraph at lines 180--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--228
+Underfull \hbox (badness 10000) in paragraph at lines 180--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--228
+Underfull \hbox (badness 10000) in paragraph at lines 180--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--228
+Underfull \hbox (badness 10000) in paragraph at lines 180--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--228
+Underfull \hbox (badness 10000) in paragraph at lines 180--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--228
+Underfull \hbox (badness 10000) in paragraph at lines 180--237
 
  []
 
 
-Overfull \hbox (7.91731pt too wide) in paragraph at lines 188--228
+Overfull \hbox (7.91731pt too wide) in paragraph at lines 180--237
 \OT1/cmr/m/n/10 Kreisky star-tet ei-ne Bil-dungs-of-fen-si-ve $\OMS/cmsy/m/n/10
  !$ \OT1/cmr/m/n/10 Bau von h[]oheren Schu-len. Hei-ratspr[]amie,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--228
+Underfull \hbox (badness 10000) in paragraph at lines 180--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--228
+Underfull \hbox (badness 10000) in paragraph at lines 180--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--228
+Underfull \hbox (badness 10000) in paragraph at lines 180--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--228
+Underfull \hbox (badness 10000) in paragraph at lines 180--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--228
+Underfull \hbox (badness 10000) in paragraph at lines 180--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--228
+Underfull \hbox (badness 10000) in paragraph at lines 180--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--228
+Underfull \hbox (badness 10000) in paragraph at lines 180--237
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--237
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--237
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--237
 
  []
 
 [7] [8] [9] (./GeschichteSkriptum.aux) ) 
 Here is how much of TeX's memory you used:
- 895 strings out of 493311
- 10079 string characters out of 6143650
- 75976 words of memory out of 5000000
- 4401 multiletter control sequences out of 15000+600000
+ 902 strings out of 493311
+ 10169 string characters out of 6143650
+ 79976 words of memory out of 5000000
+ 4408 multiletter control sequences out of 15000+600000
  5158 words of font info for 19 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 23i,4n,23p,773b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,4n,23p,773b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on GeschichteSkriptum.pdf (9 pages, 64636 bytes).
+Output written on GeschichteSkriptum.pdf (9 pages, 66601 bytes).
 PDF statistics:
  46 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  30 JAN 2014 12:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  27 FEB 2014 11:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -502,11 +502,16 @@ Overfull \hbox (1.53383pt too wide) in paragraph at lines 220--221
 ch bei-
  []
 
-[10] [11] (./wirtschaft_skriptum.aux) ) 
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 254--258
+
+ []
+
+[11] [12] (./wirtschaft_skriptum.aux) ) 
 Here is how much of TeX's memory you used:
  2158 strings out of 493311
  28582 string characters out of 6143650
- 94552 words of memory out of 5000000
+ 95552 words of memory out of 5000000
  5598 multiletter control sequences out of 15000+600000
  6071 words of font info for 22 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -515,10 +520,10 @@ Here is how much of TeX's memory you used:
 c/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
 r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on wirtschaft_skriptum.pdf (11 pages, 116770 bytes).
+Output written on wirtschaft_skriptum.pdf (12 pages, 118701 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+ 62 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
