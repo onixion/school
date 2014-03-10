@@ -8,3 +8,4 @@
 \contentsline {section}{\numberline {3.4}Wissen}{6}
 \contentsline {chapter}{\numberline {4}Wirtschaft im Wandel}{7}
 \contentsline {chapter}{\numberline {5}Neoliberalismus}{8}
+\contentsline {section}{\numberline {5.1}Wirtschaftstheoretische Erkl\IeC {\"a}rungsmehtoden f\IeC {\"u}r den Strukturwandel}{8}
