@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  5 MAR 2014 13:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  11 MAR 2014 17:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -489,55 +489,70 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--128
  []
 
 [4 <./image/3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 133--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--151
+
+ []
+
+
 Overfull \hbox (27.37105pt too wide) in paragraph at lines 166--167
 \OT1/cmr/m/n/10 in tierischen Nahrungsmit-tel (In-nerein, H^^?ullsenfr^^?uchte)
 . Sehr schmerzhaft. Hizegef^^?uhl. 
  []
 
 [5]
-Overfull \hbox (11.91728pt too wide) in paragraph at lines 201--202
+Overfull \hbox (11.91728pt too wide) in paragraph at lines 191--192
 []\OT1/cmr/m/n/10 R^^?oteln: sind ^^?ahnlich wie die Masern, kommt zu Schwellun
 g der N^^?umpfknoten;
  []
 
 
-Overfull \hbox (2.62102pt too wide) in paragraph at lines 205--206
-\OT1/cmr/m/n/10 gen). Aids ist ein Spezial-fall der Virusimpf-sek-tion. F^^?uhr
-t let-ztlich zur Zerst^^?orung
+Underfull \hbox (badness 10000) in paragraph at lines 197--201
+
  []
 
-[6]
-Overfull \hbox (2.26924pt too wide) in paragraph at lines 212--213
-\OT1/cmr/m/n/10 Menge ab. Ka-posi Sarkom = Hautkrebs meist ver-bun-den mit Lun-
-generdz^^?undung
+[6] [7]
+Overfull \hbox (16.91722pt too wide) in paragraph at lines 233--235
+\OT1/cmr/m/n/10 ist sehr langsam ab-baubar, wurde in sehr vie-len Lebens-mit-te
+l weltweit nachgewiesen. 
  []
 
-! Undefined control sequence.
-l.217 \nextline
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[7] (./mitschrift.aux) ) 
+[8] (./mitschrift.aux) ) 
 Here is how much of TeX's memory you used:
- 1710 strings out of 493311
- 22914 string characters out of 6143650
- 83800 words of memory out of 5000000
- 5162 multiletter control sequences out of 15000+600000
+ 1711 strings out of 493311
+ 22922 string characters out of 6143650
+ 84800 words of memory out of 5000000
+ 5163 multiletter control sequences out of 15000+600000
  5158 words of font info for 19 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,5n,23p,787b,144s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,5n,23p,797b,175s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on mitschrift.pdf (7 pages, 135710 bytes).
+Output written on mitschrift.pdf (8 pages, 140199 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 54 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
