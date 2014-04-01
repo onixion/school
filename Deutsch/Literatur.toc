@@ -39,7 +39,7 @@
 \contentsline {section}{\numberline {12}B\IeC {\"u}rgerlicher oder Poetischer Realismus (1848 bis 1885)}{22}
 \contentsline {subsection}{\numberline {12.1}Allgemeines}{22}
 \contentsline {subsection}{\numberline {12.2}K\IeC {\"u}nstler}{23}
-\contentsline {subsection}{\numberline {12.3}Julia und Romeo am LAnde}{23}
+\contentsline {subsection}{\numberline {12.3}Julia und Romeo am Lande}{23}
 \contentsline {subsection}{\numberline {12.4}Autoren zu dieser Zeit}{24}
 \contentsline {subsection}{\numberline {12.5}Wichtige Philosophen}{24}
 \contentsline {section}{\numberline {13}Naturalismus (1880 bis 1900)}{25}
@@ -50,3 +50,4 @@
 \contentsline {subsubsection}{\numberline {13.1.4}Deutschsprachige Autoren}{26}
 \contentsline {subsubsection}{\numberline {13.1.5}Andere Autoren}{26}
 \contentsline {section}{\numberline {14}Expressionismus}{28}
+\contentsline {section}{\numberline {15}Interpretationsmethoden}{28}

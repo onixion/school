@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  26 FEB 2014 10:41
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  26 MAR 2014 07:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -288,25 +288,41 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
- [2] (./prfungen.aux) ) 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 59.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 59.
+
+Overfull \hbox (1.12563pt too wide) in paragraph at lines 59--67
+\OT1/cmr/m/n/10 reim (Gleich-klang ab der letz-ten Be-ton-ten Sil-be) Al-che-mi
+s-mus (=Besch[]onigung),
+ []
+
+[2]
+Overfull \hbox (41.36188pt too wide) in paragraph at lines 72--74
+\OT1/cmr/m/n/10 1830 bis 1835); Bie-der-mei-er (1815 bis 1848); 1815 Wie-ner Ko
+n-gress; 1848 (M[]arzrevolution) 
+ []
+
+[3] (./prfungen.aux) ) 
 Here is how much of TeX's memory you used:
- 899 strings out of 493311
- 10031 string characters out of 6143650
- 69219 words of memory out of 5000000
- 4398 multiletter control sequences out of 15000+600000
+ 904 strings out of 493311
+ 10094 string characters out of 6143650
+ 70219 words of memory out of 5000000
+ 4403 multiletter control sequences out of 15000+600000
  7895 words of font info for 28 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 23i,6n,23p,380b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-bx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr
-/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb>
-Output written on prfungen.pdf (2 pages, 74532 bytes).
+ 23i,6n,23p,400b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
+x10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
+share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb>
+Output written on prfungen.pdf (3 pages, 81611 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
+ 38 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

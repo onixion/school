@@ -1,0 +1,45 @@
+Schieberegister:
+----------------
+Schieberegister sind Speicherschaltungen mit kettenförmig angeordneten getakten FlipFlops. Die Information wird wie in einem Register gespeichert, darüber 
+hinaus lässt sich in einem Schieberegister die Information zwischen benachbarten FliFlopstufen verscoben. Der Takt steuert die Weitergabe der Information 
+entlang der Speicherketten. 
+
+(BILD1)
+
+Der Eingang der ersten FlipFlopstufe ist gleichzeitig der serielle Eingang SE, und der Ausgang der letzen Stufe ist der serielle Ausgang SA. In dem 
+Schieberegister besteht zwischen den benachbarten Gliedern eine Verbindung vom Ausgang zum Eingang der nächsten Stufe. Durch die Anordnung von Ausgang und 
+Eingang in einer Kette wird die Schieberegisters ist die Schieberichtung "rechts".
+
+
+Schieberegister mit VHDL:
+-------------------------
+Kurzbeschfreibung: Der Logikzustand am seriellen Eingang wird in das Schieberegister übernommen und mit jedem Takt wird der Inhalt des Schieberegisters um eine 
+Stelle nach rechts geschoben:
+Mit der seriellen Information q(0) -> q(1) -> q(2) -> q(3) einer Kette wird die Schieberichtung festgelegt.
+
+	libary ieee;
+	use ieee.std_logic_1164.all:
+
+	entity srg is port(
+		clk, reset, seriell: in std_logic;
+		q: buffer std_logic_ector(0 to 3));
+	end srg;
+	
+	architecture beh_reg of srg is
+	begin
+		schieben: process (clk,reset)
+		begin
+			if reset = '1' then q <= "0000";
+			elseif(clk'event and clk = '1') then
+				q(3) <= q(2);
+				q(2) <= q(1);
+				q(1) <= q(0);
+				q(0) <= seriell;
+			end if;
+		end process schieben;
+	end beh_reg;
+
+Schieberegister sind in allen Bausteinfamilien als integrierte Bausteine vertreten. Exemplarisch sei hier das 8-Bit-Schieberegister 74LS91 aus der 
+TTL-Schaltkreisfamilie erwähnt. Es hat folgende Eigenschaften:
+
+(BILD 2)

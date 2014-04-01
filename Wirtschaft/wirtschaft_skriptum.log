@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  6 MAR 2014 11:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.10.3)  27 MAR 2014 10:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -507,23 +507,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 254--258
 
  []
 
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 294--305
+[11] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 319--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--305
-
- []
-
-
-Overfull \hbox (47.0283pt too wide) in paragraph at lines 310--311
+Overfull \hbox (47.0283pt too wide) in paragraph at lines 328--329
 []\OT1/cmr/m/n/10 Das Recht, die Sa-che ge-samt oder teil-wei-se zu ver[]au^^Ye
 rn und den Ver[]au^^Yerungsgewinn
  []
 
-[12] [13] (./wirtschaft_skriptum.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--346
+
+ []
+
+[13]
+Overfull \hbox (10.61166pt too wide) in paragraph at lines 360--361
+[]\OT1/cmr/m/n/10 Forstgesetz: Wald hat der []Offentlichkeit zur Er-ho-lungs-zw
+ecken zur Verf[]ugung
+ []
+
+
+Overfull \hbox (19.66719pt too wide) in paragraph at lines 363--364
+\OT1/cmr/m/n/10 rech-te $\OMS/cmsy/m/n/10 !$ \OT1/cmr/m/n/10 fried-li-ches Zu-s
+am-men-le-ben soll erm[]oglicht wer-den $\OMS/cmsy/m/n/10 !$ \OT1/cmr/m/n/10 Be
+-schr[]ankungen
+ []
+
+[14] (./wirtschaft_skriptum.aux) ) 
 Here is how much of TeX's memory you used:
  2158 strings out of 493311
  28582 string characters out of 6143650
@@ -532,14 +545,14 @@ Here is how much of TeX's memory you used:
  6071 words of font info for 22 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  37i,5n,23p,779b,299s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
-r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on wirtschaft_skriptum.pdf (13 pages, 120048 bytes).
+</usr/share/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
+2.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sha
+re/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on wirtschaft_skriptum.pdf (14 pages, 123716 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
+ 69 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
