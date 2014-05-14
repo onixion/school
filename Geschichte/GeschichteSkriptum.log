@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2014.4.1)  2 APR 2014 08:52
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2014.4.1)  14 MAY 2014 08:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -515,33 +515,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 260--267
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--287
+Underfull \hbox (badness 10000) in paragraph at lines 275--288
 
  []
 
 
-Overfull \hbox (16.13835pt too wide) in paragraph at lines 275--287
+Overfull \hbox (16.13835pt too wide) in paragraph at lines 275--288
 \OT1/cmr/m/n/10 EWG (Eu-rop[]aische Wirt-schaft-li-che Ge-mein-schaft) - 1995 M
 a-stricht-ver-tr[]age schreibt
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--287
+Underfull \hbox (badness 10000) in paragraph at lines 275--288
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--287
+Underfull \hbox (badness 10000) in paragraph at lines 275--288
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--287
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 275--287
+Underfull \hbox (badness 10000) in paragraph at lines 275--288
 
  []
 
@@ -557,7 +552,7 @@ Here is how much of TeX's memory you used:
 </usr/share/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
 pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on GeschichteSkriptum.pdf (11 pages, 72934 bytes).
+Output written on GeschichteSkriptum.pdf (11 pages, 73027 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream

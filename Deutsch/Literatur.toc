@@ -49,5 +49,7 @@
 \contentsline {subsubsection}{\numberline {13.1.3}Literatur}{26}
 \contentsline {subsubsection}{\numberline {13.1.4}Deutschsprachige Autoren}{26}
 \contentsline {subsubsection}{\numberline {13.1.5}Andere Autoren}{26}
-\contentsline {section}{\numberline {14}Expressionismus}{28}
-\contentsline {section}{\numberline {15}Interpretationsmethoden}{28}
+\contentsline {section}{\numberline {14}Expressionismus (1910 - 1925)}{28}
+\contentsline {subsection}{\numberline {14.1}Historisch}{28}
+\contentsline {subsection}{\numberline {14.2}Allgemeines}{28}
+\contentsline {subsection}{\numberline {14.3}Autoren}{29}
