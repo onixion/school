@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2014.4.1)  23 APR 2014 13:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2014.4.1)  21 MAY 2014 12:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -546,7 +546,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 296--305
 
  []
 
-[9] (./mitschrift.aux) ) 
+[9]
+Overfull \hbox (4.91719pt too wide) in paragraph at lines 326--327
+[]\OT1/cmr/m/n/10 Sauerstoffgehalt: die Or-gan-is-men m^^?ussen At-men - sie en
+tziehen dem Wasser
+ []
+
+
+Overfull \hbox (15.60242pt too wide) in paragraph at lines 326--327
+\OT1/cmr/m/n/10 Schlecht. Und sie h^^?angt von ver-schiedene Fak-toren ab: Tem-
+per-atur (Verkehrt-
+ []
+
+
+Overfull \hbox (15.08397pt too wide) in paragraph at lines 328--329
+[]\OT1/cmr/m/n/10 Organischen Stof-fen: m^^?ussen N^^?ahrstoffe im Wasser vorha
+n-den sein (Pflanzen). 
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 349--355
+
+ []
+
+[11] (./mitschrift.aux) ) 
 Here is how much of TeX's memory you used:
  1711 strings out of 493308
  22922 string characters out of 6143617
@@ -555,14 +578,14 @@ Here is how much of TeX's memory you used:
  5158 words of font info for 19 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  37i,5n,23p,797b,175s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on mitschrift.pdf (9 pages, 142731 bytes).
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
+sr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on mitschrift.pdf (11 pages, 147284 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 63 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
