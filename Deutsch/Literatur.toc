@@ -53,3 +53,6 @@
 \contentsline {subsection}{\numberline {14.1}Historisch}{28}
 \contentsline {subsection}{\numberline {14.2}Allgemeines}{28}
 \contentsline {subsection}{\numberline {14.3}Autoren}{29}
+\contentsline {subsection}{\numberline {14.4}Werke}{29}
+\contentsline {subsection}{\numberline {14.5}Fr\IeC {\"u}hlings Erwachen}{29}
+\contentsline {section}{\numberline {15}Jahrhundert Wende}{30}
