@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2014.4.1)  25 JUN 2014 09:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2014.9.11)  17 OCT 2014 12:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Literatur.tex
 (./Literatur.tex
-LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 79 languages loaded.
 (/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texmf-dist/tex/latex/base/size12.clo
@@ -24,22 +24,26 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 (/usr/share/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2013/12/03 3.9h The Babel package
+Package: babel 2014/03/24 3.9k The Babel package
+
+(/usr/share/texmf-dist/tex/generic/babel-german/german.ldf
+Language: german 2013/12/13 v2.7 German support for babel (traditional orthogra
+phy)
 
 (/usr/share/texmf-dist/tex/generic/babel-german/germanb.ldf
 Language: germanb 2013/12/13 v2.7 German support for babel (traditional orthogr
 aphy)
 
 (/usr/share/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2013/12/03 3.9h Babel common definitions
+File: babel.def 2014/03/24 3.9k Babel common definitions
 \babel@savecnt=\count87
 \U@D=\dimen103
 )
 \l@austrian = a dialect from \language\l@german 
 Package babel Info: Making " an active character on input line 107.
-))
+)))
 (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2008/03/30 v1.1d Input encoding file
+Package: inputenc 2014/04/30 v1.2b Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
@@ -257,22 +261,22 @@ Now handling font encoding U ...
 )) (./Literatur.aux)
 \openout1 = `Literatur.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 11.
+(Font)              <14.4> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 11.
+(Font)              <7> on input line 10.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Literatur.toc
@@ -287,208 +291,223 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout3 = `Literatur.toc'.
 
  [3]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 21.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 20.
 
 (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 20.
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--31
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--31
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
 
  []
 
 [4]
-Overfull \hbox (1.29735pt too wide) in paragraph at lines 84--85
+Overfull \hbox (1.29735pt too wide) in paragraph at lines 83--84
 []\OT1/cmr/m/n/12 auktoriales Erz[]ahlverhalten: Der Erz[]ahler hat die olym-pi
 -sche (g[]ottliche)
  []
 
 [5]
-Overfull \hbox (5.6362pt too wide) in paragraph at lines 110--113
+Overfull \hbox (5.6362pt too wide) in paragraph at lines 109--112
 \OT1/cmr/m/n/12 l[]angeren Zeit-raum mit vie-len Fi-gu-ren. Der Be-griff Ro-man
  hei^^Yt []ubersetzt
  []
 
 [6] [7] [8]
-Overfull \hbox (26.52113pt too wide) in paragraph at lines 181--181
+Overfull \hbox (26.52113pt too wide) in paragraph at lines 180--180
 []\OT1/cmr/bx/n/14.4 Laut- und Be-deu-tungs-wand-ler vom Mit-tel-hoch-deutsch
  []
 
 
-Overfull \hbox (1.3279pt too wide) in paragraph at lines 187--190
+Overfull \hbox (1.3279pt too wide) in paragraph at lines 186--189
 []\OT1/cmr/m/n/12 Diphthongierung (12/13 Jahr-hun-dert): ein-fa-che Vo-ka-le wu
 r-den zu Zwie-
  []
 
 
-Overfull \hbox (1.12375pt too wide) in paragraph at lines 195--196
+Overfull \hbox (1.12375pt too wide) in paragraph at lines 194--195
 []\OT1/cmr/m/n/12 Assimilation (=An-glei-chung an be-nach-bar-ten Lau-ten): z.B
 . Fibel-Bibel,
  []
 
 [9] [10] [11] [12]
-Overfull \hbox (27.53873pt too wide) in paragraph at lines 276--277
+Overfull \hbox (27.53873pt too wide) in paragraph at lines 275--276
 \OT1/cmr/m/n/12 Die Auf-kl[]arung (1700 bis 1770) war ei-ne geist-li-che Str[]o
 mung, die sich haupts[]achlich
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
 
  []
 
 [13]
-Overfull \hbox (0.31404pt too wide) in paragraph at lines 319--320
+Overfull \hbox (0.31404pt too wide) in paragraph at lines 318--319
 \OT1/cmr/m/n/12 Das Dra-ma ''Die R[]auber'',geschrieben von Schil-ler, han-delt
  von zwei Br[]udern,
  []
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 325--327
+Underfull \hbox (badness 10000) in paragraph at lines 324--326
 
  []
 
 [15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 416--417
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
 
  []
 
 
-Overfull \hbox (17.6319pt too wide) in paragraph at lines 440--441
+Overfull \hbox (17.6319pt too wide) in paragraph at lines 439--440
 \OT1/cmr/m/n/12 Heidelberg ist ei-ne Gro^^Y-stadt im s[]ud-westen Deutsch-land 
 und wird haupts[]achlich
  []
 
 [17] [18] [19]
-Underfull \hbox (badness 10000) in paragraph at lines 472--482
+Underfull \hbox (badness 10000) in paragraph at lines 471--481
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--482
+Underfull \hbox (badness 10000) in paragraph at lines 471--481
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--482
+Underfull \hbox (badness 10000) in paragraph at lines 471--481
 
  []
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 488--491
+Underfull \hbox (badness 10000) in paragraph at lines 487--490
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 488--491
+Underfull \hbox (badness 10000) in paragraph at lines 487--490
 
  []
 
 [21]
-Overfull \hbox (29.6938pt too wide) in paragraph at lines 501--501
+Overfull \hbox (29.6938pt too wide) in paragraph at lines 500--500
 []\OT1/cmr/bx/n/17.28 B[]urgerlicher oder Poe-ti-scher Rea-lis-mus (1848
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 504--520
+Underfull \hbox (badness 10000) in paragraph at lines 503--519
 
  []
 
 
-Overfull \hbox (2.3765pt too wide) in paragraph at lines 504--520
+Overfull \hbox (2.3765pt too wide) in paragraph at lines 503--519
 \OT1/cmr/m/n/12 Realismus besch[]aftigt sich nicht mit der Po-li-tik son-dern u
 m all-ge-mein mensch-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 504--520
+Underfull \hbox (badness 10000) in paragraph at lines 503--519
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 504--520
+Underfull \hbox (badness 10000) in paragraph at lines 503--519
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 504--520
+Underfull \hbox (badness 10000) in paragraph at lines 503--519
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 504--520
+Underfull \hbox (badness 10000) in paragraph at lines 503--519
 
  []
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 537--545
+Underfull \hbox (badness 10000) in paragraph at lines 536--544
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 537--545
+Underfull \hbox (badness 10000) in paragraph at lines 536--544
 
  []
 
 [23] [24]
-Underfull \hbox (badness 10000) in paragraph at lines 579--586
+Underfull \hbox (badness 10000) in paragraph at lines 578--585
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 579--586
+Underfull \hbox (badness 10000) in paragraph at lines 578--585
 
  []
 
 [25] [26] [27]
-Underfull \hbox (badness 10000) in paragraph at lines 671--686
+Underfull \hbox (badness 10000) in paragraph at lines 670--685
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 671--686
+Underfull \hbox (badness 10000) in paragraph at lines 670--685
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 671--686
+Underfull \hbox (badness 10000) in paragraph at lines 670--685
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 696--700
+Underfull \hbox (badness 10000) in paragraph at lines 695--699
 
  []
 
 [28] [29]
-Underfull \hbox (badness 10000) in paragraph at lines 732--735
+Underfull \hbox (badness 10000) in paragraph at lines 731--734
 
  []
 
-[30] (./Literatur.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--734
+
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 792--796
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--796
+
+ []
+
+[31] [32] (./Literatur.aux) ) 
 Here is how much of TeX's memory you used:
- 931 strings out of 493308
- 10531 string characters out of 6143617
- 70666 words of memory out of 5000000
- 4430 multiletter control sequences out of 15000+600000
+ 951 strings out of 493108
+ 10882 string characters out of 6140725
+ 72950 words of memory out of 5000000
+ 4453 multiletter control sequences out of 15000+600000
  8808 words of font info for 31 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
- 23i,6n,23p,1519b,307s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Literatur.pdf (30 pages, 99965 bytes).
+ 1141 hyphenation exceptions out of 8191
+ 25i,6n,23p,1519b,307s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Literatur.pdf (32 pages, 104483 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
- 79 compressed objects within 1 object stream
+ 123 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -56,3 +56,5 @@
 \contentsline {subsection}{\numberline {14.4}Werke}{29}
 \contentsline {subsection}{\numberline {14.5}Fr\IeC {\"u}hlings Erwachen}{29}
 \contentsline {section}{\numberline {15}Jahrhundert Wende}{30}
+\contentsline {subsection}{\numberline {15.1}Wichtige K\IeC {\"u}nstler}{31}
+\contentsline {subsection}{\numberline {15.2}Franz Kafka (1883-1924) in Prag}{31}
