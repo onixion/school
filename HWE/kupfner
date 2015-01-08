@@ -1,0 +1,61 @@
+...
+
+Gewachsene Routinen-Sammlungen haben auch den Nachteil, dass sie nur für bereits aufgetretene PRobleme Lösungen bereitstellen. Betriebssysteme werden i.d. Regel on einem Hersteller oder - wie z.B. bei Linux - on einem Entwicklerteam gewartet, so dass für eine Reihe von Fragestellungen bereits Lösungen verfügbar sind.
+
+Mehrere Faktoren begünstigen in neuerer Zeit den Einsatz on OS auf µC:
+
+	*) Leistungsfähigkeit bon Prozsessoren steigt zunehmend, damit werden leitungsschwächere Prozessoren (Vorgängermodelle) preislich günstiger
+	*) Grenze zwischen µC und Prozesor wird fließender -> zunehmend stärkere Einfluss von SoC (System-on-Chip)
+
+!! Letzlich entscheidet eine Kostenrechnung darüber, ob sich der Einsatz eines OS lohnt. Bei wenigen komplexen Aufgaben und hoher Stückzahl sind µC klar im Vorteil. !!
+
+Anforderungen im industriellen Umfeld:
+
+Im industriellen Umfeld werden häufig Anforderungen gestellt, die im Desktop- und selbst im Serverbereich bei weitem nicht auftreten. Server müssen zwar wie Industrie-PCs ebenfalls ausfallsicher sein, sie befinden sich aber zumeist geschützt in einem Serverschrank, der in einem klimatisierten Raum aufgestellt wird.
+
+Die HW unterliegt im industriellen Umfeld extremenUmweltbedingungen wie z.B.:
+
+    *) Staubbelastungen
+    *) hohen Temperaturen
+    *) Vibration
+    *) elektromagnetische Störungen
+    *) usw.
+
+Deshalb gibt es Schutzklassen, die in der Form IPxy (x = Berührung u. Fremdkörper; y=Beständigkeit gegenüber Feuchtigkeit) angegeben werden.
+
+Tabelle für x:
+
+Klasse | Schutz gegen Berührung                | Schutz gegen Fremdkörper
+-------------------------------------------------------------------------
+0        kein Schutz                             kein Schutz
+1        großflächige Körperteile (z.B. Hand)    Fremdkörper > 50mm
+2        Finger                                  Fremdkörper > 12mm
+3        Werkzeuge u. Drähte (>2,5mm)            kornförmiger Fremdkörper > 2,5mm
+4        -||- (>1mm)                             kornförmiger Fremdkörper > 1mm
+5        vollständiger Berührungschutz           Staubablagerung
+6        -||-                                    Staubeintritt
+
+Tabelle für y:
+
+Klasse | Schutz gegen Wasser
+----------------------------
+0        kein Schutz
+1        Schutz gegen senkrecht fallendes Tropfwasser
+2        -||- schräg (bis 15Grad) fallendes Tropfwasser
+3        -||- Sprühwasser bi 60Grad gegen die Senkrechte
+4        -||- allseitiges Spritzwasser
+5        -||- Strahlwasser
+6        -||- starkes Strahlwasser
+7        -||- zeitweiliges Untertauchen
+8        -||- dauerhaftes Untertauchen
+9        -||- Hochdruck und Dampfreinigung
+
+Warum Linux?
+------------
+Linux wurde ursprünglich für INTEL-386-Architektur entwickelt, wurde aber zwischenzeitlich auf viele weiter Prozessor-Familien portiert, darunter viele die mit/für passiver Kühlung ugelassen sind (PowerPC, 386-System-on-Chip, MIPS, ARM, NIOS, ...)
+
+Nachteile:
+
+	*) Kompatibilität: SW unter Linux i.d.R. nicht kompatible zu anderen OS -> Portierung
+	*) Treiberunterstützung
+	*) Sicherheit (-> administrative Kenntnisse!)
