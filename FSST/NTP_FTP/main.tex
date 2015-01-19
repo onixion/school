@@ -1,0 +1,29 @@
+\documentclass[a4paper]{article}
+
+\usepackage[german]{babel}
+\usepackage[utf8]{inputenc}
+
+\parindent 0pt
+
+\begin{document}
+
+\section{NTP - Network Time Protocol}
+
+NTP (Network Time Protocol) ist ein Netzwerkprotokoll für den Austausch von Systemzeiten, dabei wird auf dem verbindungslosen Protokoll UDP wertgelegt (auf Port 123). Die Zeitstempel in NTP sind 64 Bits lang, wovon 32 Bits die Sekunden seit dem 1.1.1900 darstellt und die restlichen 32 Bits geben den Sekundenbruchteil an. Damit lässt sich ein Zeitraum von 138 Jahre in einer Auflösung von 0.23 Nanosekunden darstellen. NTP ist als ein hirachische System implementiert mit verschiedenen Strata (Mehrzahl von Stratum). Mit Stratum 0 bezeichnet man das Zeitnormal (Atomuhr oder Funkuhr), die NTP-Servers darunter, also die Server die die Zeit von Stratum 0 bezieht, nennt man Stratum 1.
+
+\newpage
+\section{FTP - File Transfer Protocol}
+
+FTP (File Transfer Protocol) ist ein Netzwerkprotkoll für die Übertragung von Dateien über das Netzwerk. Bei FTP baut auf TCP auf und belegt Port 20 für den Datenaustausch und 21 für die Übertragung der einzelnen Befehle. FTP alleine nutzt standardmäßig keine Verschlüsselung oder Authetifizierung, daher gibt es FTPs. FTPs baut auf TLS/SSL auf. FTP(s) kann folgende Operation auf dem Server ermöglichen:
+
+\begin{itemize}
+\item Dateien hochladen
+\item Dateien herunterladen
+\item Dateien umbennen oder löschen (Verzeichnisse eingeschlossen)
+\item Dateien zwischen Servern austauschen
+\end{itemize}
+
+\newpage
+\section{RDP -Remote Desktop Protocol}
+
+\end{document}

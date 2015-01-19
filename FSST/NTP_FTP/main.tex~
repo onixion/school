@@ -1,0 +1,15 @@
+\documentclass[a4paper]{article}
+
+\usepackage[german]{babel}
+\usepackage[utf8]{inputenv}
+
+\indent 0pt
+
+\begin{document}
+
+\section{GAY}
+
+was\\
+was
+
+\end{document}
