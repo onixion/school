@@ -9,7 +9,8 @@
 
 \section{NTP - Network Time Protocol}
 
-NTP (Network Time Protocol) ist ein Netzwerkprotokoll für den Austausch von Systemzeiten, dabei wird auf dem verbindungslosen Protokoll UDP wertgelegt (auf Port 123). Die Zeitstempel in NTP sind 64 Bits lang, wovon 32 Bits die Sekunden seit dem 1.1.1900 darstellt und die restlichen 32 Bits geben den Sekundenbruchteil an. Damit lässt sich ein Zeitraum von 138 Jahre in einer Auflösung von 0.23 Nanosekunden darstellen. NTP ist als ein hirachische System implementiert mit verschiedenen Strata (Mehrzahl von Stratum). Mit Stratum 0 bezeichnet man das Zeitnormal (Atomuhr oder Funkuhr), die NTP-Servers darunter, also die Server die die Zeit von Stratum 0 bezieht, nennt man Stratum 1.
+NTP (Network Time Protocol) ist ein Netzwerkprotokoll für den Austausch von Systemzeiten, dabei wird auf dem verbindungslosen Protokoll UDP wertgelegt (auf Port 123). Die Zeitstempel in NTP sind 64 Bits lang, wovon 32 Bits die Sekunden seit dem 1.1.1900 darstellt und die restlichen 32 Bits geben den Sekundenbruchteil an. Damit lässt sich ein Zeitraum von 138 Jahre in einer Auflösung von 0.23 Nanosekunden darstellen. NTP ist als ein hirachische System implementiert mit verschiedenen Strata (Mehrzahl von Stratum). Mit Stratum 0 bezeichnet man das Zeitnormal (Atomuhr oder Funkuhr), die NTP-Servers darunter, also die Server die die Zeit von Stratum 0 bezieht, nennt man Stratum 1.\\
+Datenbanken brachen eine exakte Zeit, damit die Schreibvorgänge exakt angewendet werden können. Dienste wie E-Directory oder Activ-Directory verlassen sich auf exakte Uhrzeiten.
 
 \newpage
 \section{FTP - File Transfer Protocol}
@@ -23,7 +24,17 @@ FTP (File Transfer Protocol) ist ein Netzwerkprotkoll für die Übertragung von 
 \item Dateien zwischen Servern austauschen
 \end{itemize}
 
+FTP ist ein sehr altes Protkoll und wird seit dem Beginn des Internets eingesetzt. Heute nimmt der Einsatz von FTP jedoch ab, da viele andere Protkolle Aufgaben des FTPs übernehmen können. FTP-Server und Clients sind sehr einfach aufzusetzen.
+Es gibt zwei Typen von FTP:
+
+\begin{itemize}
+\item Aktive FTP: 
+\item Passives FTP:
+\end{itemize}
+
 \newpage
 \section{RDP -Remote Desktop Protocol}
+
+RDP (Remote Desktop Protocol) ist ein Microsoft Propriäteres Netzwerkprotokoll für die Darstellung und Steuerung.
 
 \end{document}
