@@ -1,0 +1,98 @@
+Zugriffskontrollpolitik, Berechtigungssysteme, Schlüssel- und Passwortverwaltung
+
+-----------------------------------------------------
+Zugriffskontrollpolitik
+
+	-> welche Subjekte dürfen auf welche Objekte welche Operationen ausführen 
+		(Subjekte: Person, Programm, Prozess)
+		(Objekte:  IT-Anwendungen, Daten)
+		(Operationen: Lesen, Schreiben, Ausführen)
+
+	-> welche Subjekte und welche Objekte unterliegen der Rechtverwaltung
+	-> welche Arten von Rechten können zwischen Subjekten und Objekten existieren
+	-> wer darf rechte einsehen und ändern
+	-> welche Regeln müssen bei Vergabe bzw. Änderung einghalten werden
+ 	-> welche Rollen müssen durch die Rechteverwaltung definiert werden (z.B. AdministratorenInnen, Revision, BenuterInnen, ..)
+	-> welche Rollen sind miteinander unvereinbar
+	-> wie erfolgt Indentifikation und Atuehntisierung
+
+Rechteverwaltung muss vollständig, widerspruchfrei und überschaubar sein.
+
+----------------------------------------------------
+Benutzerverwaltung
+
+	-> die Rechteverwaltung darf nur durch Berechtigte
+	und nur im Rahmen der in der Zugriffskontrollpolitik
+	festgelegten Regeln durchgeführt werden
+
+	-> immer nur so viele Zugriffsrechte vergeben, wie es
+	für die Aufgabenwahrnehmung des Benutzers notwenig ist
+	("Need.to-know-Prinzip")
+
+	-> jeder Benutzer sollte ihre Rechte innerhalb einer
+	Anwendung einsehen können, ebenso alle verantwortlichen
+	in diesem Bereich
+
+	-> personelle und aufgabenbezogene Änderungen müssen
+	innerhalb vder Rechtewerwaltng unverzüglich berück-
+	sichtigt werden
+
+	-> für den temporären Entzug von Zugriffsrechten (Urlaub,
+	Karenz, ...) muss ein geregeltes Verfahre definiert werden
+	
+	-> bei ausscheidung von MitarbeiterInner müssen die Rechte
+	unverzüglich deaktiviert bzw. gelöscht werden
+
+	-> für neue Mitarbeiter dürfen nicht die alten Benutzer-
+	kennungen reaktivert werden
+
+	-> in definierten Abständen sollen systemweite Suchen
+	nach toten Benutzerkennungen gemacht werden, damit diese
+	Entfernt werden können
+
+Einrichtung und Dokumentation der BenutzerInnen und Rechteprofile
+	
+	-> Name, Vornae, eindeutige Identifikation zumindest im
+	jeweiligen Berechtigunssystem
+	
+	-> Telefonnummer, Raum, ...
+	
+	-> ggf. Projekt, Angaben über die Tätigkeiten im System, 
+	Dauer der Tätigkeit
+
+	-> ggf. Restriktionen auf Zeiten, Endgeräte, Platten-
+	volumen, Zugriffsberechtigungen auf bestimmte vereichnisse
+
+	-> ggf. Zustimmung von Vorgesetzten
+
+	-> Passwort der Benutzer soll nach der Vergabe von ihnen
+	unerzüglich geändert werden
+
+	-> ggf. Benutzergruppen
+
+Bei all diesen Aufzeichnungne ust auf die Aktualität und Voll-
+ständigkeit zu achten.
+
+Regelngen des Passwortgebrauches
+
+	-> PW sollte mindestens 6 Zeichen lang sein
+	-> überprüfung ob das Berechtigungssystem auch alle
+	Stellen des Passwortes überprüft
+	-> im PW sollte mindestens ein Zeichen verwendet werden
+	das kein Buchstabe ist
+	-> Tastaturmuster, oder leicht zu erratene Wörterkombinationen
+	sollen vermieden werden
+	-> voreingestellte PW sofort ändern
+	-> Passwörter dürfen nicht auf programmierbare
+	Funktionstastern gespeichert werden
+	-> die Eingabe von PW soll unbeobachtet stattfinden
+	-> Bei der Eingabe darf das Passwort nicht auf dem
+	Bildschirm angezeigt werden
+	-> das PW muss geheim gehalten werden (WIRKLICK?)
+	und darf nur vom Benutzer selbst bekannt sein
+	-> Das PW soll wenn möglich nicht schriftlich aufgezeichnet
+	werden, wenn doch ist für die sicherheit der Aufzeichung
+	besonders sorge zu tragen
+	-> Passwort muss regelmäßig geändert werden
+	-> ist das Passwort von unautorisierten Personen bekannt,
+	so ist ein sofortiger Passwortwechsel durchzuführen
