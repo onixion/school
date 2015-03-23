@@ -73,6 +73,9 @@ Einrichtung und Dokumentation der BenutzerInnen und Rechteprofile
 Bei all diesen Aufzeichnungne ust auf die Aktualität und Voll-
 ständigkeit zu achten.
 
+-----------------------------------------
+Verantwortung der BenutzerInnen
+
 Regelngen des Passwortgebrauches
 
 	-> PW sollte mindestens 6 Zeichen lang sein
@@ -96,3 +99,79 @@ Regelngen des Passwortgebrauches
 	-> Passwort muss regelmäßig geändert werden
 	-> ist das Passwort von unautorisierten Personen bekannt,
 	so ist ein sofortiger Passwortwechsel durchzuführen
+
+Bildschirmsperre soll bei Verlassen des Arbeitsplatzes aktiviert werden, auch wenn man nur kurz den Arbeitsplatz verlässt.
+
+----------------------------------
+Fernzugriff
+
+Behörden und Unternehmen müssen häufig Fernzugriffsmöglichkeiten auf ihre IT-Systeme einrichen, um auf Daten und Anwendungen unabhängig vom Standort zuzugreifen. Diese Fernzugriffmöglichkeit können mit unerschiedlichen Endgeräten realisiert werden. Mit dem Gewinn an Flexibilität sind Risiken verbunden, die vor allen Dingen die Möglichkeit der Spionage und des Verlusts von Daten sowie der Sabotage der IT-Systeme der Institution betreffen.
+
+Die wichtigsten Maßnahmen gegen die Spionage oder Verlust von Daten:
+    -> erolgreiche Authentifizierung
+    -> Verschlüsselung der Daten auf dem Engerät und eine regelmäßige Sicherung der Daten im Netz der Institution, um die auf dem Engerät gespeicherten Daten vor Verlust un gegen Vertraulichkeitsverletzungen zu schützen
+    -> Einsatz eines kryptografisch gesicherten VPN, um die Kommunikation des Engerätes mit dem Netz der Institution vor unbefugtem Mitlesen zu schützen
+
+Sollte das Engerät gestohlen werden, so muss umgehend der Fernzugriff für den beteiligten BenutzerInner gesperrt werden.
+
+----------------------------------
+KRYPTOGRAPHIE
+
+Kryptographische Verfahren sollen vor folgenden Punkten schutz bieten:
+
+		 -> Vertraulichkeitsverlust: Kenntnis von Informationen durch Unbefugte
+		 -> Integritätsverlust: Manipulation von Daten durch Unbefugte
+		 -> Authentizitätsverlust: Manipulation an der Urheberschaft von Informationen
+
+Vor was kryptographische Verfahren nicht schützen:
+
+    		-> Verfügbarkeit: im Gegenteil, der unsachgemäßger Gebrauch von Verschlüsselungen kann zu Datenverlust führen, kosten auch Systemperformance
+		-> kryptographische systeme können nichts gegen Denial-Of-Service-Attacken tun, sie können aber zur Früherkennung solcher Attacken helfen
+		-> kryptographische Systeme können keine absichtlichen oder uunabsichtliche Verfälschungen von Informationen (Übertragungsfehler, Rauschen) nicht verhindern, sie können diese nachträglich erkennbar machen.
+
+Die Nutzer dieser kryptographischen Systemen sollen über ihre Eigenschaften informiert werden. Das gilt erst recht für Nutzer, welche ein Kryptokonzept erstellen, Kryptoprodukte auswählen, installieren oder betreuen.
+
+-> Grundbegriffe der Kryptographie
+   -> Schlüssel
+   -> Brute-Force
+   
+-> Grundziele
+   -> Vertraulichkeit (Geheimhaltung): Keine unbefugte dritte PArtei soll während der Kommunikation die Aussage der übertragenen Informationen verstehen dürfen
+   -> Integrität: Die Manipulation von Daten (Übertragungsfehler oder absichtlich) sollen endeckt werden können.
+   -> Authentifizierung:
+	-> Indentität nachweisen, die Echtheit eines Objektes beweisen (Person, Organisation, usw.)
+	-> Herkunftsnachweis (Nachrichtenauthentisierung): Ein Absender einer Nachrich soll dem Empfänger beweisen können, dass die Nachricht von ihm Stammt und nicht verändert wurde.
+   -> Nichtabstreitbarkeit:
+        -> ein Sender kann das Absender einer Nachricht nicht abstreiten können
+	-> ein Empfänger soll den Erhalt einer bestimmten Nachricht eines bestimmten Senders nicht abstreiten können
+	Dies entspricht Funktionalitäten von Unterschriften.
+
+Die grundlegenden kryptographischen Methoden zur Wahrung von Vertraulichkeit ist Verschlüsselung. Die Gewährleistung von Integrität, Authenzität und nicht abstreitbarkeit sind Hashfunktionen, Message Authentication Codes (MACs), digitale Signaturen und kryptographische Protokolle.
+
+Entwicklung eines Kryptokonzept
+
+	    -> welcher schutzbedarf besteht bzw. welche sicherheitsniveau es zu erreich gilt
+	    -> welche finanzielle nd personelle Ressurcen zur Verfügun stehen, um die gelpanten Sicherheitsmechanismen zu implementieren und einzusetzten
+	    -> welcher Funktions- und LEistungsumfang anzupeilen ist
+	    -> wer die Verantwortung übernimmt
+
+(AUS DEM HANDBUCH LESEN) ZU VIEL!!
+
+Schutzbedarf der Daten
+
+Auswahl eines geeigneten kryptographischen Verfahrens
+
+Auswahl eines geeigneten kryptographischen Produktes
+
+Regelung des Einsatzes von Krpytomodulen
+
+Physikalische Sicherheit von Kryptomodulen
+
+Schlüsselmanagment
+
+Einsatz von elektronischer Signaturen
+
+Zertifizierungsdienstanbieter
+
+Kryptographische Methoden
+
