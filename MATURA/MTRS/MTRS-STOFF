@@ -1,0 +1,38 @@
+
+	MI 27.05. um  9:00 - 2h bis 3h
+	DI 02.06. um 13:20 - 3h
+	MI 10.06. um  9:00 - 3h
+	MI 17.06. um  9:00 - 3h
+____________________________________________
+
+Grundlagen (keine Fragen, aber Wissen)
+
+	- Genauigkeit, Auflösung, Empfindlichkeit
+	- Anpassschaltung für Sensor
+	- Messgerät, prinzipieller Aufbau eines Messgerätes, 'Messkette vom Sensor -> Anzeige'
+	- Messbereich
+	- Messfehler (relativer/absoluter), Quantisierungsfehler
+
+	- (Spannungsmessung, Strommessung)	
+		-> Ziele ... hochohmige U-Messung, niederohmige I-Messung
+		-> Unterschiedliche Ausschlagverfahren-Kompensation
+	- Widerstandsmessung
+	- Brückenschaltung
+		-> Brückenabgleich
+		-> Instrumentierverstärker (für die Messung der Spannung)
+		-> Ausschlagbrücke 1/4, 1/2, Vollbrücke
+			-> linearität ... welche
+			-> Empfindlichkeit (Formel)
+			-> 2-Leiter, 3-Leiter, 4-Leiterschaltung
+		-> Ausflug-Verstärkung
+
+ Grundlagen der Wechselstromtechnik
+
+	- Definitionen und Formeln der AC-Mittelwere, Effektivwerte
+		- Arithmetischer Mittelwert -> Offset / DC-Anteil
+		- Betrags Mittelwert -> gleichgerichteter arithmetischer Mittelwert
+		- Effektivwert -> gleiche Leistung wie gleicher DC-Wert
+		- Scheitelfaktor, Formfaktor (Klirrfaktor NICHT)
+		- Überlagerung von Effektivwerten
+
+		
