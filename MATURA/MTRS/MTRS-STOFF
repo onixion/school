@@ -35,4 +35,48 @@ Grundlagen (keine Fragen, aber Wissen)
 		- Scheitelfaktor, Formfaktor (Klirrfaktor NICHT)
 		- Überlagerung von Effektivwerten
 
-		
+-05.05.2015
+
+Tiefpass 1.Ordnung
+ 	- Aufbau + Erklärungen
+ 	- Sprungantwort
+	- Grafische Darstellung (Bodediagramm)
+	- Mittelwertbildung mit Tiefpass
+
+Oszilloskopie
+	- Aufbau, Baugruppen (Trigger, ...), Blockaufbau, Zusammenhänge und Eigenschaften, NICHT XY-Betrieb
+	- Unterschied Analog / Digital
+	- Eingangskopplung, Vertikalablenkung, ...
+	- NICHT BEDIENELEMENTE
+
+Drehstrom
+ 	- Drehstromsystem Aufbau
+	- Begriffe: Phasen-Gegen-0-Leiter, Verkettungsfaktor
+	- Spannungszeiger aufzeichnen
+	- Strangstrom und Strangspannung
+	- Sternschaltung / Dreieckschaltung (keine Rechnungen, nur Auswirkungen)
+ 	-Leistungsmessung
+ 		- Definitionen: Blindleistung pendelt hin und her ...
+		- Multiplizierendes Messgerät und Mittelwertbildung
+
+	- NICHT Energieflussbildung
+
+Triac / Thyristor
+	- Kennlinien
+	- Selbsthalte
+
+Mosfet
+
+Singale und Systeme
+	- Harmonisches Signal / Periodisches Signal
+	- Einheitssprung, Impulssignal, Sprungfunktion
+	- Systeme
+		- Theorie, Aufbau
+		- nur Systeme mit einer Eingangsgröße und einer Ausgangsgröße (Eingrößensystem)
+		- Grundlegende Verhalten: statisch, dynamisch
+		- Was tue ich wenn ein System nicht linear ist?
+		- Verhalten bei Änderung der Größen
+		- bei dynamischen Systemen: stabil / instabil
+		- LTI-Systeme
+		- lineare Verzerrungen
+		- nicht-lineare Verzerrungen
