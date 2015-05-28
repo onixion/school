@@ -80,3 +80,58 @@ Singale und Systeme
 		- LTI-Systeme
 		- lineare Verzerrungen
 		- nicht-lineare Verzerrungen
+
+-27.05.
+
+Leistungselektronische Schaltungen
+	- Schalten von Induktivitäten
+		- Funktionsweise und Erklärungen
+		- Schaltungen (Snappercurcuit)
+		- FET und Freilaufdiode (Shotkey-Dioden oder so)
+		
+Phasenanschnittstuerung
+	- Wichte Begriffe: Zündwinkel, Stromflusswinkel
+	- Aufpassen: muss nicht als eine Frage kommen, aber als Teilantwort einer Anderen (z.B. Thyristor, Triac)
+	- BEi induktiven Lasten aufpassen, weil der STrom eilt der Spannung nach, Spannung kann nicht als Steuergröße verwendet werden.
+
+Netzwerkgeführte Glecih- und Wechselschaltungen
+	- Schalterzeitpunkte des Schaltens nach rechts oder links verschieben
+	- rechts -> nur positive Halbbögen
+	- links -> nur negatvie Halbbögen
+	- mitte -> halb pos, halb neg
+	- am Beispiel eines Lifts
+	- Verbraucher / Generator
+
+Umrichterschaltung
+
+H-Brückenschaltung
+	- kann für Lautsprecher oder DC-Motoren verwendet werden
+
+Schaltwandler
+	- Abwärtswendler, Aufwärtswandler, Invertierer
+	- Lückenbetrieb, Strom darf nicht 0 oder negativ werden
+
+Elektrische Maschinen
+	- elektronmagnetische Grundlagen
+	- DC-Maschine (Polwendermaschine)
+		- Drehzahl, Drehmoment
+		- Aufbau
+		- Schaltungsarten
+			- speziell die fremderregte Maschine
+
+Fremderregte DC-Maschine
+	- Erklärungen
+	- Neutralezone, Querfeld
+	- Wendepolwicklung
+	- Feldschwächbetrieb
+	- Grenzbetrieb (Seite ist hinter Asynchronmaschine)
+
+	NICHT
+
+	- Dynamische Verhalten
+	- Regelungstechnische Blockschaltbild
+
+Elektronische Kommutierte DC-Motor
+	- Anker und Feld vertauschen
+	- Blockkommutierung (BILD rechts unten)
+	- Drehmoment, Drehzahl 
