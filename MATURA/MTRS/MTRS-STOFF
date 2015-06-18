@@ -1,0 +1,137 @@
+
+	MI 27.05. um  9:00 - 2h bis 3h
+	DI 02.06. um 13:20 - 3h
+	MI 10.06. um  9:00 - 3h
+	MI 17.06. um  9:00 - 3h
+____________________________________________
+
+Grundlagen (keine Fragen, aber Wissen)
+
+	- Genauigkeit, Auflösung, Empfindlichkeit
+	- Anpassschaltung für Sensor
+	- Messgerät, prinzipieller Aufbau eines Messgerätes, 'Messkette vom Sensor -> Anzeige'
+	- Messbereich
+	- Messfehler (relativer/absoluter), Quantisierungsfehler
+
+	- (Spannungsmessung, Strommessung)	
+		-> Ziele ... hochohmige U-Messung, niederohmige I-Messung
+		-> Unterschiedliche Ausschlagverfahren-Kompensation
+	- Widerstandsmessung
+	- Brückenschaltung
+		-> Brückenabgleich
+		-> Instrumentierverstärker (für die Messung der Spannung)
+		-> Ausschlagbrücke 1/4, 1/2, Vollbrücke
+			-> linearität ... welche
+			-> Empfindlichkeit (Formel)
+			-> 2-Leiter, 3-Leiter, 4-Leiterschaltung
+		-> Ausflug-Verstärkung
+
+ Grundlagen der Wechselstromtechnik
+
+	- Definitionen und Formeln der AC-Mittelwere, Effektivwerte
+		- Arithmetischer Mittelwert -> Offset / DC-Anteil
+		- Betrags Mittelwert -> gleichgerichteter arithmetischer Mittelwert
+		- Effektivwert -> gleiche Leistung wie gleicher DC-Wert
+		- Scheitelfaktor, Formfaktor (Klirrfaktor NICHT)
+		- Überlagerung von Effektivwerten
+
+-05.05.2015
+
+Tiefpass 1.Ordnung
+ 	- Aufbau + Erklärungen
+ 	- Sprungantwort
+	- Grafische Darstellung (Bodediagramm)
+	- Mittelwertbildung mit Tiefpass
+
+Oszilloskopie
+	- Aufbau, Baugruppen (Trigger, ...), Blockaufbau, Zusammenhänge und Eigenschaften, NICHT XY-Betrieb
+	- Unterschied Analog / Digital
+	- Eingangskopplung, Vertikalablenkung, ...
+	- NICHT BEDIENELEMENTE
+
+Drehstrom
+ 	- Drehstromsystem Aufbau
+	- Begriffe: Phasen-Gegen-0-Leiter, Verkettungsfaktor
+	- Spannungszeiger aufzeichnen
+	- Strangstrom und Strangspannung
+	- Sternschaltung / Dreieckschaltung (keine Rechnungen, nur Auswirkungen)
+ 	-Leistungsmessung
+ 		- Definitionen: Blindleistung pendelt hin und her ...
+		- Multiplizierendes Messgerät und Mittelwertbildung
+
+	- NICHT Energieflussbildung
+
+Triac / Thyristor
+	- Kennlinien
+	- Selbsthalte
+
+Mosfet
+
+Singale und Systeme
+	- Harmonisches Signal / Periodisches Signal
+	- Einheitssprung, Impulssignal, Sprungfunktion
+	- Systeme
+		- Theorie, Aufbau
+		- nur Systeme mit einer Eingangsgröße und einer Ausgangsgröße (Eingrößensystem)
+		- Grundlegende Verhalten: statisch, dynamisch
+		- Was tue ich wenn ein System nicht linear ist?
+		- Verhalten bei Änderung der Größen
+		- bei dynamischen Systemen: stabil / instabil
+		- LTI-Systeme
+		- lineare Verzerrungen
+		- nicht-lineare Verzerrungen
+
+-27.05.
+
+Leistungselektronische Schaltungen
+	- Schalten von Induktivitäten
+		- Funktionsweise und Erklärungen
+		- Schaltungen (Snappercurcuit)
+		- FET und Freilaufdiode (Shotkey-Dioden oder so)
+		
+Phasenanschnittstuerung
+	- Wichte Begriffe: Zündwinkel, Stromflusswinkel
+	- Aufpassen: muss nicht als eine Frage kommen, aber als Teilantwort einer Anderen (z.B. Thyristor, Triac)
+	- BEi induktiven Lasten aufpassen, weil der STrom eilt der Spannung nach, Spannung kann nicht als Steuergröße verwendet werden.
+
+Netzwerkgeführte Glecih- und Wechselschaltungen
+	- Schalterzeitpunkte des Schaltens nach rechts oder links verschieben
+	- rechts -> nur positive Halbbögen
+	- links -> nur negatvie Halbbögen
+	- mitte -> halb pos, halb neg
+	- am Beispiel eines Lifts
+	- Verbraucher / Generator
+
+Umrichterschaltung
+
+H-Brückenschaltung
+	- kann für Lautsprecher oder DC-Motoren verwendet werden
+
+Schaltwandler
+	- Abwärtswendler, Aufwärtswandler, Invertierer
+	- Lückenbetrieb, Strom darf nicht 0 oder negativ werden
+
+Elektrische Maschinen
+	- elektronmagnetische Grundlagen
+	- DC-Maschine (Polwendermaschine)
+		- Drehzahl, Drehmoment
+		- Aufbau
+		- Schaltungsarten
+			- speziell die fremderregte Maschine
+
+Fremderregte DC-Maschine
+	- Erklärungen
+	- Neutralezone, Querfeld
+	- Wendepolwicklung
+	- Feldschwächbetrieb
+	- Grenzbetrieb (Seite ist hinter Asynchronmaschine)
+
+	NICHT
+
+	- Dynamische Verhalten
+	- Regelungstechnische Blockschaltbild
+
+Elektronische Kommutierte DC-Motor
+	- Anker und Feld vertauschen
+	- Blockkommutierung (BILD rechts unten)
+	- Drehmoment, Drehzahl 
