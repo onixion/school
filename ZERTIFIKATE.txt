@@ -1,0 +1,59 @@
+
+Heute werden stark kryptographische Verschlüsselungalgorithmen 
+
+Egal wie stark der Verschlüsselungsalgorithmus ist, egal wie lang der Schlüssel ist, wenn ich
+mit dem falschen Kommunikationsparnter kommunizierte, ist die Verschlüsselung umsonst. MAn-in-the-
+middle ist eine Attacke bei der ...
+Um diese Attacken zu verhindern und auch Verschlüsselungen einfacher hand zu haben, werden digitale Zertifikate
+verwendet.
+
+Ein Dititale Zertifikat ist ein Datensatz, der durch kryptographische Mechanismen/Verfahren die Integrität
+und Authenzität der Enthalten Informationen bestätigt. Die enthaltenen Informationen können Idenitäten oder
+Objekte.
+Ein weit verbreites Zeritifikatsstandard ist z.B. X.509-Zertifikat, dass bei HTTPS eingesetzt wird. 
+Das ist ein Pulbic-Key-Zertifikat und bestätigt eine Idenitäten, einen dazugehörigen
+öffentlichen kryptographischen Schlüssel und weiter Eigenschaften.
+
+Mit Public-Key-Infrastruktur (PKI, englisch public key infrastructure) 
+bezeichnet man in der Kryptologie ein System, das digitale Zertifikate 
+ausstellen, verteilen und prüfen kann.
+
+Es gibt sogennante Zertifizierungsstellen (=Certificate Authority, CA). Das sind Organisationen / Unternehmen,
+die für Geld Zertifikate unterschreiben (signieren). Ich als Privatperson, oder Unternehmen können bei 
+der Registrierungstelle (Registration Authority, RA) zertifikate beantragen. Die RA prüft die angegebenen
+Daten (Name, EMail, Wohnsitz, ...) und reicht sie der CA. Diese unterschreibt das Zertifikat.
+
+Für den FAll, dass ein Zertifikat vor Ablauf des Gültigkeitsbereich ungültig ist (weil der private Schlüssel
+des Zertifikats bekannt geworden ist, oder Informationen im Zertifika geändert wurden), gibt es sogenannte
+Zertifikats-Sperr-Listen (Certificat Revocation Lists, CRL). Diese Listen beinhalten Zertifikate, die nicht
+mehr als vertrauenswürdig eingestuft werden.
+
+Nutzer können auf ihrem Computer das CA-Zertifiakt (Root-Zertifikat) installieren. Bei einer Verbindung
+zum Server, ladet der Client das Zertifikat der Seite herunter und überprüft, ob das Zertifikat von der
+installierten Zertifizierungsstelle unterzeichnet wurde. Wurde sie nicht unterzeichnet, ist die Identität des
+Inhabers nicht bestätigt und es könnte sich um eine Fake-Seite handlen.
+
+Wir vertrauen darauf, dass die Zertifizierungsstelle, die Zertifiakte gut genug überpürfen, ob mit persönlichen
+Gespräch oder Anruf.
+
+________________________
+FOLIE 1
+
+Verschlüsselung
+Man-in-the-middle
+Public-Key-Zertifikat (X.509)
+Public-Key-Infrastruktur (PKI)
+	- Zertifizerungsstelle
+	- Registrierungsstelle
+	- Zertifikatsperrlisten
+
+FOLIE
+
+Funktionsweise
+Netzwerkgeräte
+
+
+
+
+
+
